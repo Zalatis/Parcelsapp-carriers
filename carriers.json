@@ -1,0 +1,6482 @@
+[
+  {
+    "slug": "Auto Detect",
+    "name": "🔍 Auto Detect"
+  },
+  {
+    "slug": "007EX",
+    "name": "007EX"
+  },
+  {
+    "slug": "139 Express",
+    "name": "139 Express"
+  },
+  {
+    "slug": "13ten Citipost",
+    "name": "13ten Citipost"
+  },
+  {
+    "slug": "17 Exp",
+    "name": "17 Exp"
+  },
+  {
+    "slug": "1ST",
+    "name": "1ST"
+  },
+  {
+    "slug": "2GO",
+    "name": "2GO"
+  },
+  {
+    "slug": "360Lion",
+    "name": "360Lion"
+  },
+  {
+    "slug": "3PE Express",
+    "name": "3PE Express"
+  },
+  {
+    "slug": "4PX Express",
+    "name": "4PX Express"
+  },
+  {
+    "slug": "5Post",
+    "name": "5Post"
+  },
+  {
+    "slug": "70Mai",
+    "name": "70Mai"
+  },
+  {
+    "slug": "8express",
+    "name": "8express"
+  },
+  {
+    "slug": "99minutos",
+    "name": "99minutos"
+  },
+  {
+    "slug": "A Duie Pyle",
+    "name": "A Duie Pyle"
+  },
+  {
+    "slug": "A TU Hora Express",
+    "name": "A TU Hora Express"
+  },
+  {
+    "slug": "A1 Post",
+    "name": "A1 Post"
+  },
+  {
+    "slug": "AAA Cooper",
+    "name": "AAA Cooper"
+  },
+  {
+    "slug": "ABF Freight",
+    "name": "ABF Freight"
+  },
+  {
+    "slug": "ABX Express",
+    "name": "ABX Express"
+  },
+  {
+    "slug": "ACI Logistix",
+    "name": "ACI Logistix"
+  },
+  {
+    "slug": "aCommerce",
+    "name": "aCommerce"
+  },
+  {
+    "slug": "ACP E-Commerce Solutions",
+    "name": "ACP E-Commerce Solutions"
+  },
+  {
+    "slug": "ACS Courier",
+    "name": "ACS Courier"
+  },
+  {
+    "slug": "Activos24",
+    "name": "Activos24"
+  },
+  {
+    "slug": "Adex",
+    "name": "Adex"
+  },
+  {
+    "slug": "Aegean Air Cargo",
+    "name": "Aegean Air Cargo"
+  },
+  {
+    "slug": "Aeroflot Cargo",
+    "name": "Aeroflot Cargo"
+  },
+  {
+    "slug": "Aerolineas Argentinas Cargo",
+    "name": "Aerolineas Argentinas Cargo"
+  },
+  {
+    "slug": "Aerom\\xe9xico Cargo",
+    "name": "Aerom\\xe9xico Cargo"
+  },
+  {
+    "slug": "Aerotrans",
+    "name": "Aerotrans"
+  },
+  {
+    "slug": "AeroUnion Air Cargo",
+    "name": "AeroUnion Air Cargo"
+  },
+  {
+    "slug": "Afred 24",
+    "name": "Afred 24"
+  },
+  {
+    "slug": "Air Algerie Cargo",
+    "name": "Air Algerie Cargo"
+  },
+  {
+    "slug": "Air Arabia Cargo",
+    "name": "Air Arabia Cargo"
+  },
+  {
+    "slug": "Air Astana Cargo",
+    "name": "Air Astana Cargo"
+  },
+  {
+    "slug": "Air Baltic Cargo",
+    "name": "Air Baltic Cargo"
+  },
+  {
+    "slug": "Air Belgium Cargo",
+    "name": "Air Belgium Cargo"
+  },
+  {
+    "slug": "Air Canada Cargo",
+    "name": "Air Canada Cargo"
+  },
+  {
+    "slug": "Air China Cargo",
+    "name": "Air China Cargo"
+  },
+  {
+    "slug": "Air Europa",
+    "name": "Air Europa"
+  },
+  {
+    "slug": "Air France Cargo",
+    "name": "Air France Cargo"
+  },
+  {
+    "slug": "Air India Cargo",
+    "name": "Air India Cargo"
+  },
+  {
+    "slug": "Air New Zealand Cargo",
+    "name": "Air New Zealand Cargo"
+  },
+  {
+    "slug": "Air Serbia Cargo",
+    "name": "Air Serbia Cargo"
+  },
+  {
+    "slug": "Air Vistara Cargo",
+    "name": "Air Vistara Cargo"
+  },
+  {
+    "slug": "Air21",
+    "name": "Air21"
+  },
+  {
+    "slug": "AirAsia Red Cargo",
+    "name": "AirAsia Red Cargo"
+  },
+  {
+    "slug": "AirBridgeCargo",
+    "name": "AirBridgeCargo"
+  },
+  {
+    "slug": "Airmee Sweden",
+    "name": "Airmee Sweden"
+  },
+  {
+    "slug": "Airmia",
+    "name": "Airmia"
+  },
+  {
+    "slug": "Airpak Express",
+    "name": "Airpak Express"
+  },
+  {
+    "slug": "Airspeed",
+    "name": "Airspeed"
+  },
+  {
+    "slug": "Airterra",
+    "name": "Airterra"
+  },
+  {
+    "slug": "AJEX",
+    "name": "AJEX"
+  },
+  {
+    "slug": "Ajlexpress",
+    "name": "Ajlexpress"
+  },
+  {
+    "slug": "AKIS Express",
+    "name": "AKIS Express"
+  },
+  {
+    "slug": "Alaska Airlines Cargo",
+    "name": "Alaska Airlines Cargo"
+  },
+  {
+    "slug": "Albania Post",
+    "name": "Albania Post"
+  },
+  {
+    "slug": "Albanian Courier",
+    "name": "Albanian Courier"
+  },
+  {
+    "slug": "Ali Business Logistics",
+    "name": "Ali Business Logistics"
+  },
+  {
+    "slug": "Alibaba.com Logistics",
+    "name": "Alibaba.com Logistics"
+  },
+  {
+    "slug": "AliExpress Premium Shipping",
+    "name": "AliExpress Premium Shipping"
+  },
+  {
+    "slug": "AliExpress Saver Shipping",
+    "name": "AliExpress Saver Shipping"
+  },
+  {
+    "slug": "Aliexpress Standard Shipping",
+    "name": "Aliexpress Standard Shipping"
+  },
+  {
+    "slug": "Alitalia Cargo",
+    "name": "Alitalia Cargo"
+  },
+  {
+    "slug": "AllCargo GATI",
+    "name": "AllCargo GATI"
+  },
+  {
+    "slug": "Allegro.pl",
+    "name": "Allegro.pl"
+  },
+  {
+    "slug": "Allied Express",
+    "name": "Allied Express"
+  },
+  {
+    "slug": "AllJoy",
+    "name": "AllJoy"
+  },
+  {
+    "slug": "Amazon FBA Swiship",
+    "name": "Amazon FBA Swiship"
+  },
+  {
+    "slug": "Amazon India Shipping",
+    "name": "Amazon India Shipping"
+  },
+  {
+    "slug": "Amazon Italy",
+    "name": "Amazon Italy"
+  },
+  {
+    "slug": "Amazon Logistics",
+    "name": "Amazon Logistics"
+  },
+  {
+    "slug": "Amazon Shipping France",
+    "name": "Amazon Shipping France"
+  },
+  {
+    "slug": "Amazon Shipping Spain",
+    "name": "Amazon Shipping Spain"
+  },
+  {
+    "slug": "Amazon Shipping UK",
+    "name": "Amazon Shipping UK"
+  },
+  {
+    "slug": "Amazon Swiship AU",
+    "name": "Amazon Swiship AU"
+  },
+  {
+    "slug": "Amazon Swiship DE",
+    "name": "Amazon Swiship DE"
+  },
+  {
+    "slug": "Amazon Swiship ES",
+    "name": "Amazon Swiship ES"
+  },
+  {
+    "slug": "Amazon Swiship FR",
+    "name": "Amazon Swiship FR"
+  },
+  {
+    "slug": "Amazon Swiship IT",
+    "name": "Amazon Swiship IT"
+  },
+  {
+    "slug": "Amazon Swiship JP",
+    "name": "Amazon Swiship JP"
+  },
+  {
+    "slug": "Amazon Swiship UK",
+    "name": "Amazon Swiship UK"
+  },
+  {
+    "slug": "Amazon Swiship US",
+    "name": "Amazon Swiship US"
+  },
+  {
+    "slug": "Amber Express",
+    "name": "Amber Express"
+  },
+  {
+    "slug": "Ambro Express",
+    "name": "Ambro Express"
+  },
+  {
+    "slug": "American Airlines Cargo",
+    "name": "American Airlines Cargo"
+  },
+  {
+    "slug": "Amerijet Airlines Cargo",
+    "name": "Amerijet Airlines Cargo"
+  },
+  {
+    "slug": "An Post",
+    "name": "An Post"
+  },
+  {
+    "slug": "ANA Cargo All Nippon Airways",
+    "name": "ANA Cargo All Nippon Airways"
+  },
+  {
+    "slug": "Anbeiqi",
+    "name": "Anbeiqi"
+  },
+  {
+    "slug": "Anchanto",
+    "name": "Anchanto"
+  },
+  {
+    "slug": "Andida",
+    "name": "Andida"
+  },
+  {
+    "slug": "Andreani",
+    "name": "Andreani"
+  },
+  {
+    "slug": "Anjun",
+    "name": "Anjun"
+  },
+  {
+    "slug": "AnserX",
+    "name": "AnserX"
+  },
+  {
+    "slug": "Ant eParcel",
+    "name": "Ant eParcel"
+  },
+  {
+    "slug": "AnterAja",
+    "name": "AnterAja"
+  },
+  {
+    "slug": "Antron",
+    "name": "Antron"
+  },
+  {
+    "slug": "AO",
+    "name": "AO"
+  },
+  {
+    "slug": "Aochen",
+    "name": "Aochen"
+  },
+  {
+    "slug": "Aoyue",
+    "name": "Aoyue"
+  },
+  {
+    "slug": "APC Overnight",
+    "name": "APC Overnight"
+  },
+  {
+    "slug": "APC Postal Logistics",
+    "name": "APC Postal Logistics"
+  },
+  {
+    "slug": "APG eCommerce Solutions",
+    "name": "APG eCommerce Solutions"
+  },
+  {
+    "slug": "APG eCommerce Solutions Order",
+    "name": "APG eCommerce Solutions Order"
+  },
+  {
+    "slug": "Apple Express",
+    "name": "Apple Express"
+  },
+  {
+    "slug": "Apple Store",
+    "name": "Apple Store"
+  },
+  {
+    "slug": "Aquiline",
+    "name": "Aquiline"
+  },
+  {
+    "slug": "Aramex",
+    "name": "Aramex"
+  },
+  {
+    "slug": "Aramex Australia",
+    "name": "Aramex Australia"
+  },
+  {
+    "slug": "Aramex New Zealand",
+    "name": "Aramex New Zealand"
+  },
+  {
+    "slug": "Arbat",
+    "name": "Arbat"
+  },
+  {
+    "slug": "Arco Spedizioni",
+    "name": "Arco Spedizioni"
+  },
+  {
+    "slug": "Argentine Post",
+    "name": "Argentine Post"
+  },
+  {
+    "slug": "Arrow Express",
+    "name": "Arrow Express"
+  },
+  {
+    "slug": "ArrowXL",
+    "name": "ArrowXL"
+  },
+  {
+    "slug": "Arvato SCM",
+    "name": "Arvato SCM"
+  },
+  {
+    "slug": "Asendia",
+    "name": "Asendia"
+  },
+  {
+    "slug": "Asendia France",
+    "name": "Asendia France"
+  },
+  {
+    "slug": "Asendia Hong Kong",
+    "name": "Asendia Hong Kong"
+  },
+  {
+    "slug": "Asendia Spain",
+    "name": "Asendia Spain"
+  },
+  {
+    "slug": "Asendia UK - Watch My Parcel Tracking",
+    "name": "Asendia UK - Watch My Parcel Tracking"
+  },
+  {
+    "slug": "Asendia United States",
+    "name": "Asendia United States"
+  },
+  {
+    "slug": "ASIAFLY",
+    "name": "ASIAFLY"
+  },
+  {
+    "slug": "Asiana Airlines Cargo",
+    "name": "Asiana Airlines Cargo"
+  },
+  {
+    "slug": "Asigna",
+    "name": "Asigna"
+  },
+  {
+    "slug": "ASL Airlines Cargo",
+    "name": "ASL Airlines Cargo"
+  },
+  {
+    "slug": "ASL Distribution",
+    "name": "ASL Distribution"
+  },
+  {
+    "slug": "ASOS",
+    "name": "ASOS"
+  },
+  {
+    "slug": "Asus International",
+    "name": "Asus International"
+  },
+  {
+    "slug": "Asyad Express",
+    "name": "Asyad Express"
+  },
+  {
+    "slug": "Atlas Air Cargo",
+    "name": "Atlas Air Cargo"
+  },
+  {
+    "slug": "ATS Healthcare",
+    "name": "ATS Healthcare"
+  },
+  {
+    "slug": "Australia Mail",
+    "name": "Australia Mail"
+  },
+  {
+    "slug": "Australian Regional Express",
+    "name": "Australian Regional Express"
+  },
+  {
+    "slug": "Austria Post",
+    "name": "Austria Post"
+  },
+  {
+    "slug": "Averitt Express",
+    "name": "Averitt Express"
+  },
+  {
+    "slug": "Avianca Airlines Cargo - Tampa Cargo",
+    "name": "Avianca Airlines Cargo - Tampa Cargo"
+  },
+  {
+    "slug": "Avianca Cargo - TACA Airlines Cargo",
+    "name": "Avianca Cargo - TACA Airlines Cargo"
+  },
+  {
+    "slug": "Aviastar-T.",
+    "name": "Aviastar-T."
+  },
+  {
+    "slug": "Avis Logistics",
+    "name": "Avis Logistics"
+  },
+  {
+    "slug": "AyMakan",
+    "name": "AyMakan"
+  },
+  {
+    "slug": "B2C Europe",
+    "name": "B2C Europe"
+  },
+  {
+    "slug": "B2CPL",
+    "name": "B2CPL"
+  },
+  {
+    "slug": "BAB Kingtrans",
+    "name": "BAB Kingtrans"
+  },
+  {
+    "slug": "Baikal Service",
+    "name": "Baikal Service"
+  },
+  {
+    "slug": "Bangladesh Post",
+    "name": "Bangladesh Post"
+  },
+  {
+    "slug": "BDT Post",
+    "name": "BDT Post"
+  },
+  {
+    "slug": "Bee Express",
+    "name": "Bee Express"
+  },
+  {
+    "slug": "BEL",
+    "name": "BEL"
+  },
+  {
+    "slug": "Belgium Post - Bpost",
+    "name": "Belgium Post - Bpost"
+  },
+  {
+    "slug": "BENBEN",
+    "name": "BENBEN"
+  },
+  {
+    "slug": "Bermuda Post",
+    "name": "Bermuda Post"
+  },
+  {
+    "slug": "Best Express",
+    "name": "Best Express"
+  },
+  {
+    "slug": "Best Express Malaysia",
+    "name": "Best Express Malaysia"
+  },
+  {
+    "slug": "Best Express Vietnam",
+    "name": "Best Express Vietnam"
+  },
+  {
+    "slug": "Best Inc.",
+    "name": "Best Inc."
+  },
+  {
+    "slug": "Best Transport Sweden",
+    "name": "Best Transport Sweden"
+  },
+  {
+    "slug": "Better Trucks",
+    "name": "Better Trucks"
+  },
+  {
+    "slug": "Bhutan Post",
+    "name": "Bhutan Post"
+  },
+  {
+    "slug": "Bird System",
+    "name": "Bird System"
+  },
+  {
+    "slug": "BIZ Courier",
+    "name": "BIZ Courier"
+  },
+  {
+    "slug": "BL",
+    "name": "BL"
+  },
+  {
+    "slug": "Black Arrow Express",
+    "name": "Black Arrow Express"
+  },
+  {
+    "slug": "Bleckmann",
+    "name": "Bleckmann"
+  },
+  {
+    "slug": "BLKJ",
+    "name": "BLKJ"
+  },
+  {
+    "slug": "Blue Express",
+    "name": "Blue Express"
+  },
+  {
+    "slug": "Blue Leopard",
+    "name": "Blue Leopard"
+  },
+  {
+    "slug": "BlueBuck",
+    "name": "BlueBuck"
+  },
+  {
+    "slug": "BlueBull",
+    "name": "BlueBull"
+  },
+  {
+    "slug": "Bluecare Express",
+    "name": "Bluecare Express"
+  },
+  {
+    "slug": "Bluedart",
+    "name": "Bluedart"
+  },
+  {
+    "slug": "BONA",
+    "name": "BONA"
+  },
+  {
+    "slug": "Border Express",
+    "name": "Border Express"
+  },
+  {
+    "slug": "Borderfree",
+    "name": "Borderfree"
+  },
+  {
+    "slug": "Bosnia and Herzegovina Post",
+    "name": "Bosnia and Herzegovina Post"
+  },
+  {
+    "slug": "Botswana Post",
+    "name": "Botswana Post"
+  },
+  {
+    "slug": "Boxberry",
+    "name": "Boxberry"
+  },
+  {
+    "slug": "BoxC",
+    "name": "BoxC"
+  },
+  {
+    "slug": "BoxCheck",
+    "name": "BoxCheck"
+  },
+  {
+    "slug": "Boxit",
+    "name": "Boxit"
+  },
+  {
+    "slug": "BoxNow",
+    "name": "BoxNow"
+  },
+  {
+    "slug": "BoxNow Bulgaria",
+    "name": "BoxNow Bulgaria"
+  },
+  {
+    "slug": "BoxNow Croatia",
+    "name": "BoxNow Croatia"
+  },
+  {
+    "slug": "BoxNow Cyprus",
+    "name": "BoxNow Cyprus"
+  },
+  {
+    "slug": "Boxtal",
+    "name": "Boxtal"
+  },
+  {
+    "slug": "Boyaca Delivery",
+    "name": "Boyaca Delivery"
+  },
+  {
+    "slug": "Boyuan",
+    "name": "Boyuan"
+  },
+  {
+    "slug": "Bpost International",
+    "name": "Bpost International"
+  },
+  {
+    "slug": "BR1 Express",
+    "name": "BR1 Express"
+  },
+  {
+    "slug": "Brazil Post",
+    "name": "Brazil Post"
+  },
+  {
+    "slug": "Bring",
+    "name": "Bring"
+  },
+  {
+    "slug": "Bringer Air Cargo",
+    "name": "Bringer Air Cargo"
+  },
+  {
+    "slug": "Bringer Parcel Services",
+    "name": "Bringer Parcel Services"
+  },
+  {
+    "slug": "Bringly.nl",
+    "name": "Bringly.nl"
+  },
+  {
+    "slug": "British Airways Cargo",
+    "name": "British Airways Cargo"
+  },
+  {
+    "slug": "Broad Reach",
+    "name": "Broad Reach"
+  },
+  {
+    "slug": "Brokers Worldwide",
+    "name": "Brokers Worldwide"
+  },
+  {
+    "slug": "BRT Bartolini",
+    "name": "BRT Bartolini"
+  },
+  {
+    "slug": "BRT Bartolini (Parcel ID)",
+    "name": "BRT Bartolini (Parcel ID)"
+  },
+  {
+    "slug": "Brunei Post",
+    "name": "Brunei Post"
+  },
+  {
+    "slug": "BSB",
+    "name": "BSB"
+  },
+  {
+    "slug": "BTD",
+    "name": "BTD"
+  },
+  {
+    "slug": "Budbee",
+    "name": "Budbee"
+  },
+  {
+    "slug": "Buffalo Logistics",
+    "name": "Buffalo Logistics"
+  },
+  {
+    "slug": "Bulgaria Post",
+    "name": "Bulgaria Post"
+  },
+  {
+    "slug": "Buy Logic",
+    "name": "Buy Logic"
+  },
+  {
+    "slug": "Byaheros Express",
+    "name": "Byaheros Express"
+  },
+  {
+    "slug": "BYT",
+    "name": "BYT"
+  },
+  {
+    "slug": "CACESA Logistics",
+    "name": "CACESA Logistics"
+  },
+  {
+    "slug": "CACESA Postal",
+    "name": "CACESA Postal"
+  },
+  {
+    "slug": "Cainiao",
+    "name": "Cainiao",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "slug": "Cainiao Heavy Parcel Line",
+    "name": "Cainiao Heavy Parcel Line",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "slug": "Cainiao Super Economy",
+    "name": "Cainiao Super Economy",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "slug": "Call Courier",
+    "name": "Call Courier"
+  },
+  {
+    "slug": "Cambodia Post",
+    "name": "Cambodia Post"
+  },
+  {
+    "slug": "Cameroon Post / CamPost",
+    "name": "Cameroon Post / CamPost"
+  },
+  {
+    "slug": "Canada Post",
+    "name": "Canada Post"
+  },
+  {
+    "slug": "Canpar",
+    "name": "Canpar"
+  },
+  {
+    "slug": "Capital Express",
+    "name": "Capital Express"
+  },
+  {
+    "slug": "Captain Express Pakistan",
+    "name": "Captain Express Pakistan"
+  },
+  {
+    "slug": "CargoKing",
+    "name": "CargoKing"
+  },
+  {
+    "slug": "Cargolux Cargo",
+    "name": "Cargolux Cargo"
+  },
+  {
+    "slug": "Caribou",
+    "name": "Caribou"
+  },
+  {
+    "slug": "Castle Parcels",
+    "name": "Castle Parcels"
+  },
+  {
+    "slug": "Cathay Pacific Cargo",
+    "name": "Cathay Pacific Cargo"
+  },
+  {
+    "slug": "CCE",
+    "name": "CCE"
+  },
+  {
+    "slug": "CDECLS",
+    "name": "CDECLS"
+  },
+  {
+    "slug": "CDEK China",
+    "name": "CDEK China"
+  },
+  {
+    "slug": "CDL",
+    "name": "CDL"
+  },
+  {
+    "slug": "Cebu Pacific Cargo",
+    "name": "Cebu Pacific Cargo"
+  },
+  {
+    "slug": "CEL",
+    "name": "CEL"
+  },
+  {
+    "slug": "Celeritas Transporte",
+    "name": "Celeritas Transporte"
+  },
+  {
+    "slug": "Central Transport",
+    "name": "Central Transport"
+  },
+  {
+    "slug": "Cepra",
+    "name": "Cepra"
+  },
+  {
+    "slug": "CEVA Logistics",
+    "name": "CEVA Logistics"
+  },
+  {
+    "slug": "CEVA Logistics Italy",
+    "name": "CEVA Logistics Italy"
+  },
+  {
+    "slug": "CGS Express",
+    "name": "CGS Express"
+  },
+  {
+    "slug": "Challenge Airlines Cargo",
+    "name": "Challenge Airlines Cargo"
+  },
+  {
+    "slug": "Chile Post - Correos Chile",
+    "name": "Chile Post - Correos Chile"
+  },
+  {
+    "slug": "Chilexpress",
+    "name": "Chilexpress"
+  },
+  {
+    "slug": "China Airlines Cargo",
+    "name": "China Airlines Cargo"
+  },
+  {
+    "slug": "China Cargo Airlines",
+    "name": "China Cargo Airlines"
+  },
+  {
+    "slug": "China Logistics",
+    "name": "China Logistics"
+  },
+  {
+    "slug": "China Post",
+    "name": "China Post"
+  },
+  {
+    "slug": "China Post EMS ePacket",
+    "name": "China Post EMS ePacket"
+  },
+  {
+    "slug": "China Post Small Packet Plus",
+    "name": "China Post Small Packet Plus"
+  },
+  {
+    "slug": "China Southern Airlines Cargo",
+    "name": "China Southern Airlines Cargo"
+  },
+  {
+    "slug": "Chit Chats",
+    "name": "Chit Chats"
+  },
+  {
+    "slug": "Chronopost France",
+    "name": "Chronopost France"
+  },
+  {
+    "slug": "Chronopost Portugal",
+    "name": "Chronopost Portugal"
+  },
+  {
+    "slug": "Chukou1 Logistics",
+    "name": "Chukou1 Logistics"
+  },
+  {
+    "slug": "Chunstech",
+    "name": "Chunstech"
+  },
+  {
+    "slug": "Ciblex Express",
+    "name": "Ciblex Express"
+  },
+  {
+    "slug": "Cirro",
+    "name": "Cirro"
+  },
+  {
+    "slug": "Cirro Parcel France",
+    "name": "Cirro Parcel France"
+  },
+  {
+    "slug": "Cirro Parcel Netherlands",
+    "name": "Cirro Parcel Netherlands"
+  },
+  {
+    "slug": "Citilogistics",
+    "name": "Citilogistics"
+  },
+  {
+    "slug": "Cititrans",
+    "name": "Cititrans"
+  },
+  {
+    "slug": "City Mail",
+    "name": "City Mail"
+  },
+  {
+    "slug": "City-Link Express",
+    "name": "City-Link Express"
+  },
+  {
+    "slug": "CitySprint",
+    "name": "CitySprint"
+  },
+  {
+    "slug": "CJ Century",
+    "name": "CJ Century"
+  },
+  {
+    "slug": "CJ Korea Express",
+    "name": "CJ Korea Express"
+  },
+  {
+    "slug": "CJ Korea Express International",
+    "name": "CJ Korea Express International"
+  },
+  {
+    "slug": "CJ Logistics",
+    "name": "CJ Logistics"
+  },
+  {
+    "slug": "CJ Logistics Malaysia",
+    "name": "CJ Logistics Malaysia"
+  },
+  {
+    "slug": "CJ Logistics Singapore",
+    "name": "CJ Logistics Singapore"
+  },
+  {
+    "slug": "CJ Logistics Thailand",
+    "name": "CJ Logistics Thailand"
+  },
+  {
+    "slug": "CJ Packet",
+    "name": "CJ Packet"
+  },
+  {
+    "slug": "CLA",
+    "name": "CLA"
+  },
+  {
+    "slug": "Clevy Links",
+    "name": "Clevy Links"
+  },
+  {
+    "slug": "CMA CGM",
+    "name": "CMA CGM"
+  },
+  {
+    "slug": "CND Express",
+    "name": "CND Express"
+  },
+  {
+    "slug": "CNE Express",
+    "name": "CNE Express"
+  },
+  {
+    "slug": "CODExpress Australia",
+    "name": "CODExpress Australia"
+  },
+  {
+    "slug": "ColiColi",
+    "name": "ColiColi"
+  },
+  {
+    "slug": "Colis Prive",
+    "name": "Colis Prive"
+  },
+  {
+    "slug": "ColiSpide",
+    "name": "ColiSpide"
+  },
+  {
+    "slug": "Colissimo",
+    "name": "Colissimo"
+  },
+  {
+    "slug": "Collect+",
+    "name": "Collect+"
+  },
+  {
+    "slug": "CollectCo",
+    "name": "CollectCo"
+  },
+  {
+    "slug": "ColliCare",
+    "name": "ColliCare"
+  },
+  {
+    "slug": "Columbia Post",
+    "name": "Columbia Post"
+  },
+  {
+    "slug": "ComOne Express",
+    "name": "ComOne Express"
+  },
+  {
+    "slug": "Condor Airlines / Condor Flugdienst Cargo",
+    "name": "Condor Airlines / Condor Flugdienst Cargo"
+  },
+  {
+    "slug": "Connect Couriers",
+    "name": "Connect Couriers"
+  },
+  {
+    "slug": "CoolRunner",
+    "name": "CoolRunner"
+  },
+  {
+    "slug": "Copa Airlines Cargo",
+    "name": "Copa Airlines Cargo"
+  },
+  {
+    "slug": "Correios de Cabo Verde",
+    "name": "Correios de Cabo Verde"
+  },
+  {
+    "slug": "Correo Argentino Domestic",
+    "name": "Correo Argentino Domestic"
+  },
+  {
+    "slug": "Correo Uruguayo",
+    "name": "Correo Uruguayo"
+  },
+  {
+    "slug": "Correos de Guatemala",
+    "name": "Correos de Guatemala"
+  },
+  {
+    "slug": "Correos El Salvador",
+    "name": "Correos El Salvador"
+  },
+  {
+    "slug": "Correos express",
+    "name": "Correos express"
+  },
+  {
+    "slug": "Correos Panama",
+    "name": "Correos Panama"
+  },
+  {
+    "slug": "Corsair Cargo",
+    "name": "Corsair Cargo"
+  },
+  {
+    "slug": "COSCO Bill of Lading",
+    "name": "COSCO Bill of Lading"
+  },
+  {
+    "slug": "COSCO Shipping",
+    "name": "COSCO Shipping"
+  },
+  {
+    "slug": "Costco",
+    "name": "Costco"
+  },
+  {
+    "slug": "Costco Logistics",
+    "name": "Costco Logistics"
+  },
+  {
+    "slug": "Courier Center",
+    "name": "Courier Center"
+  },
+  {
+    "slug": "CourierIt",
+    "name": "CourierIt"
+  },
+  {
+    "slug": "Couriers Please",
+    "name": "Couriers Please"
+  },
+  {
+    "slug": "CourierServiceExpress",
+    "name": "CourierServiceExpress"
+  },
+  {
+    "slug": "Coyne Airways Cargo",
+    "name": "Coyne Airways Cargo"
+  },
+  {
+    "slug": "CPost International Curacao",
+    "name": "CPost International Curacao"
+  },
+  {
+    "slug": "Cred",
+    "name": "Cred"
+  },
+  {
+    "slug": "Croatia Post",
+    "name": "Croatia Post"
+  },
+  {
+    "slug": "Cross Border Runteck",
+    "name": "Cross Border Runteck"
+  },
+  {
+    "slug": "CrossFlight",
+    "name": "CrossFlight"
+  },
+  {
+    "slug": "CSJ",
+    "name": "CSJ"
+  },
+  {
+    "slug": "CSM Logistics",
+    "name": "CSM Logistics"
+  },
+  {
+    "slug": "Csomagpiac",
+    "name": "Csomagpiac"
+  },
+  {
+    "slug": "CST Italia",
+    "name": "CST Italia"
+  },
+  {
+    "slug": "CTS International",
+    "name": "CTS International"
+  },
+  {
+    "slug": "CTT Express",
+    "name": "CTT Express"
+  },
+  {
+    "slug": "CTTY",
+    "name": "CTTY"
+  },
+  {
+    "slug": "Cubyn",
+    "name": "Cubyn"
+  },
+  {
+    "slug": "CXC Express Hong Kong",
+    "name": "CXC Express Hong Kong"
+  },
+  {
+    "slug": "Czech Airlines Cargo",
+    "name": "Czech Airlines Cargo"
+  },
+  {
+    "slug": "Czech Post",
+    "name": "Czech Post"
+  },
+  {
+    "slug": "CZRS",
+    "name": "CZRS"
+  },
+  {
+    "slug": "Dachser",
+    "name": "Dachser"
+  },
+  {
+    "slug": "DAI Post",
+    "name": "DAI Post"
+  },
+  {
+    "slug": "Dakota Cargo",
+    "name": "Dakota Cargo"
+  },
+  {
+    "slug": "Danske Fragt",
+    "name": "Danske Fragt"
+  },
+  {
+    "slug": "DAO",
+    "name": "DAO"
+  },
+  {
+    "slug": "Dataz Express",
+    "name": "Dataz Express"
+  },
+  {
+    "slug": "Day & Ross",
+    "name": "Day & Ross"
+  },
+  {
+    "slug": "Day & Ross Freight",
+    "name": "Day & Ross Freight"
+  },
+  {
+    "slug": "Day One",
+    "name": "Day One"
+  },
+  {
+    "slug": "Daylight Transport",
+    "name": "Daylight Transport"
+  },
+  {
+    "slug": "Dayton Freight",
+    "name": "Dayton Freight"
+  },
+  {
+    "slug": "DB Schenker",
+    "name": "DB Schenker"
+  },
+  {
+    "slug": "DD Express",
+    "name": "DD Express"
+  },
+  {
+    "slug": "DDGYL",
+    "name": "DDGYL"
+  },
+  {
+    "slug": "Dealer Send",
+    "name": "Dealer Send"
+  },
+  {
+    "slug": "Dealfly",
+    "name": "Dealfly"
+  },
+  {
+    "slug": "Delhivery",
+    "name": "Delhivery"
+  },
+  {
+    "slug": "Deliver It",
+    "name": "Deliver It"
+  },
+  {
+    "slug": "DeliverDirect",
+    "name": "DeliverDirect"
+  },
+  {
+    "slug": "Delivere",
+    "name": "Delivere"
+  },
+  {
+    "slug": "DeliveryApp",
+    "name": "DeliveryApp"
+  },
+  {
+    "slug": "Delnext",
+    "name": "Delnext"
+  },
+  {
+    "slug": "Delta Airlines Cargo",
+    "name": "Delta Airlines Cargo"
+  },
+  {
+    "slug": "Denmark - PostNord Post",
+    "name": "Denmark - PostNord Post"
+  },
+  {
+    "slug": "Depo",
+    "name": "Depo"
+  },
+  {
+    "slug": "Deppon",
+    "name": "Deppon"
+  },
+  {
+    "slug": "Deprisa",
+    "name": "Deprisa"
+  },
+  {
+    "slug": "DEQI",
+    "name": "DEQI"
+  },
+  {
+    "slug": "Deutsche Post - DHL Paket",
+    "name": "Deutsche Post - DHL Paket"
+  },
+  {
+    "slug": "Deutsche Post Brief",
+    "name": "Deutsche Post Brief"
+  },
+  {
+    "slug": "DEX-I",
+    "name": "DEX-I"
+  },
+  {
+    "slug": "DExpress",
+    "name": "DExpress"
+  },
+  {
+    "slug": "DGHY",
+    "name": "DGHY"
+  },
+  {
+    "slug": "DHL",
+    "name": "DHL"
+  },
+  {
+    "slug": "DHL Aviation Cargo",
+    "name": "DHL Aviation Cargo"
+  },
+  {
+    "slug": "DHL eCommerce",
+    "name": "DHL eCommerce"
+  },
+  {
+    "slug": "DHL eCommerce Asia",
+    "name": "DHL eCommerce Asia"
+  },
+  {
+    "slug": "DHL Express",
+    "name": "DHL Express"
+  },
+  {
+    "slug": "DHL Freight Active Tracing",
+    "name": "DHL Freight Active Tracing"
+  },
+  {
+    "slug": "DHL Global Forwarding",
+    "name": "DHL Global Forwarding"
+  },
+  {
+    "slug": "DHL Global Forwarding US",
+    "name": "DHL Global Forwarding US"
+  },
+  {
+    "slug": "DHL Logistics",
+    "name": "DHL Logistics"
+  },
+  {
+    "slug": "DHL MySupply Chain",
+    "name": "DHL MySupply Chain"
+  },
+  {
+    "slug": "DHL Netherlands",
+    "name": "DHL Netherlands"
+  },
+  {
+    "slug": "DHL Parcel Netherlands",
+    "name": "DHL Parcel Netherlands"
+  },
+  {
+    "slug": "DHL Parcel Poland",
+    "name": "DHL Parcel Poland"
+  },
+  {
+    "slug": "DHL Parcel Slovakia",
+    "name": "DHL Parcel Slovakia"
+  },
+  {
+    "slug": "DHL Parcel Spain",
+    "name": "DHL Parcel Spain"
+  },
+  {
+    "slug": "DHL Parcel UK",
+    "name": "DHL Parcel UK"
+  },
+  {
+    "slug": "DHL Supply Chain",
+    "name": "DHL Supply Chain"
+  },
+  {
+    "slug": "DHLink",
+    "name": "DHLink"
+  },
+  {
+    "slug": "DHT Express",
+    "name": "DHT Express"
+  },
+  {
+    "slug": "Diakinisis",
+    "name": "Diakinisis"
+  },
+  {
+    "slug": "Dicom",
+    "name": "Dicom"
+  },
+  {
+    "slug": "Direct Freight Express",
+    "name": "Direct Freight Express"
+  },
+  {
+    "slug": "Direct Link",
+    "name": "Direct Link"
+  },
+  {
+    "slug": "Directlog",
+    "name": "Directlog"
+  },
+  {
+    "slug": "DJX",
+    "name": "DJX"
+  },
+  {
+    "slug": "DM Fulfillment",
+    "name": "DM Fulfillment"
+  },
+  {
+    "slug": "DMGJWL",
+    "name": "DMGJWL"
+  },
+  {
+    "slug": "Dognposten",
+    "name": "Dognposten"
+  },
+  {
+    "slug": "Domain Logistics",
+    "name": "Domain Logistics"
+  },
+  {
+    "slug": "Domodedovo Cargo",
+    "name": "Domodedovo Cargo"
+  },
+  {
+    "slug": "Dora Gate",
+    "name": "Dora Gate"
+  },
+  {
+    "slug": "DPD",
+    "name": "DPD"
+  },
+  {
+    "slug": "DPD Austria",
+    "name": "DPD Austria"
+  },
+  {
+    "slug": "DPD Business Austria",
+    "name": "DPD Business Austria"
+  },
+  {
+    "slug": "DPD France",
+    "name": "DPD France"
+  },
+  {
+    "slug": "Dpd Greece",
+    "name": "Dpd Greece"
+  },
+  {
+    "slug": "DPD Group",
+    "name": "DPD Group"
+  },
+  {
+    "slug": "DPD Group Netherlands",
+    "name": "DPD Group Netherlands"
+  },
+  {
+    "slug": "DPD Hong Kong",
+    "name": "DPD Hong Kong"
+  },
+  {
+    "slug": "DPD Ireland",
+    "name": "DPD Ireland"
+  },
+  {
+    "slug": "DPD Local",
+    "name": "DPD Local"
+  },
+  {
+    "slug": "DPD Poland",
+    "name": "DPD Poland"
+  },
+  {
+    "slug": "DPD Portugal",
+    "name": "DPD Portugal"
+  },
+  {
+    "slug": "DPD Romania",
+    "name": "DPD Romania"
+  },
+  {
+    "slug": "DPD Russia",
+    "name": "DPD Russia"
+  },
+  {
+    "slug": "DPD UK",
+    "name": "DPD UK"
+  },
+  {
+    "slug": "DpdEx",
+    "name": "DpdEx"
+  },
+  {
+    "slug": "DPE Express",
+    "name": "DPE Express"
+  },
+  {
+    "slug": "DPEX",
+    "name": "DPEX"
+  },
+  {
+    "slug": "DPEX China",
+    "name": "DPEX China"
+  },
+  {
+    "slug": "DPX Express",
+    "name": "DPX Express"
+  },
+  {
+    "slug": "DPX Logistics",
+    "name": "DPX Logistics"
+  },
+  {
+    "slug": "Dragonfly Netherlands",
+    "name": "Dragonfly Netherlands"
+  },
+  {
+    "slug": "Dragonfly Shipping Australia",
+    "name": "Dragonfly Shipping Australia"
+  },
+  {
+    "slug": "Dragonfly Shipping Canada",
+    "name": "Dragonfly Shipping Canada"
+  },
+  {
+    "slug": "Drop2Shop",
+    "name": "Drop2Shop"
+  },
+  {
+    "slug": "Dropp.is",
+    "name": "Dropp.is"
+  },
+  {
+    "slug": "DSV",
+    "name": "DSV"
+  },
+  {
+    "slug": "DTDC",
+    "name": "DTDC"
+  },
+  {
+    "slug": "DTDC India",
+    "name": "DTDC India"
+  },
+  {
+    "slug": "DuXiuExp",
+    "name": "DuXiuExp"
+  },
+  {
+    "slug": "DWE",
+    "name": "DWE"
+  },
+  {
+    "slug": "DX Delivery",
+    "name": "DX Delivery"
+  },
+  {
+    "slug": "DYE Express",
+    "name": "DYE Express"
+  },
+  {
+    "slug": "DYJ",
+    "name": "DYJ"
+  },
+  {
+    "slug": "Dynalogic",
+    "name": "Dynalogic"
+  },
+  {
+    "slug": "E D Post",
+    "name": "E D Post"
+  },
+  {
+    "slug": "e-Cargo",
+    "name": "e-Cargo"
+  },
+  {
+    "slug": "e-Post Israel",
+    "name": "e-Post Israel"
+  },
+  {
+    "slug": "E24",
+    "name": "E24"
+  },
+  {
+    "slug": "EAC",
+    "name": "EAC"
+  },
+  {
+    "slug": "EarlyBird",
+    "name": "EarlyBird"
+  },
+  {
+    "slug": "Easy Express",
+    "name": "Easy Express"
+  },
+  {
+    "slug": "EasyDel",
+    "name": "EasyDel"
+  },
+  {
+    "slug": "Easymail",
+    "name": "Easymail"
+  },
+  {
+    "slug": "EasyShip",
+    "name": "EasyShip"
+  },
+  {
+    "slug": "Easyway ПЭК",
+    "name": "Easyway ПЭК"
+  },
+  {
+    "slug": "EC Express",
+    "name": "EC Express"
+  },
+  {
+    "slug": "EC Post",
+    "name": "EC Post"
+  },
+  {
+    "slug": "EC-Firstclass",
+    "name": "EC-Firstclass"
+  },
+  {
+    "slug": "Ecargo Asia",
+    "name": "Ecargo Asia"
+  },
+  {
+    "slug": "Echindia",
+    "name": "Echindia"
+  },
+  {
+    "slug": "ECHO",
+    "name": "ECHO"
+  },
+  {
+    "slug": "ECMS Express",
+    "name": "ECMS Express"
+  },
+  {
+    "slug": "ECO Freight",
+    "name": "ECO Freight"
+  },
+  {
+    "slug": "Ecohai",
+    "name": "Ecohai"
+  },
+  {
+    "slug": "Ecom Express",
+    "name": "Ecom Express"
+  },
+  {
+    "slug": "eCommerce Intl",
+    "name": "eCommerce Intl"
+  },
+  {
+    "slug": "Econt",
+    "name": "Econt"
+  },
+  {
+    "slug": "EcoScooting",
+    "name": "EcoScooting"
+  },
+  {
+    "slug": "ECSC",
+    "name": "ECSC"
+  },
+  {
+    "slug": "Edatong",
+    "name": "Edatong"
+  },
+  {
+    "slug": "eDeliver",
+    "name": "eDeliver"
+  },
+  {
+    "slug": "EFS Asia",
+    "name": "EFS Asia"
+  },
+  {
+    "slug": "Egoint",
+    "name": "Egoint"
+  },
+  {
+    "slug": "Egypt Air Cargo",
+    "name": "Egypt Air Cargo"
+  },
+  {
+    "slug": "Egypt Post",
+    "name": "Egypt Post"
+  },
+  {
+    "slug": "Ekart Logistics",
+    "name": "Ekart Logistics"
+  },
+  {
+    "slug": "EL AL Cargo",
+    "name": "EL AL Cargo"
+  },
+  {
+    "slug": "ELS",
+    "name": "ELS"
+  },
+  {
+    "slug": "Elta Courier",
+    "name": "Elta Courier"
+  },
+  {
+    "slug": "Emex",
+    "name": "Emex"
+  },
+  {
+    "slug": "eMile",
+    "name": "eMile"
+  },
+  {
+    "slug": "Emirates Cargo",
+    "name": "Emirates Cargo"
+  },
+  {
+    "slug": "Emirates Courier Express",
+    "name": "Emirates Courier Express"
+  },
+  {
+    "slug": "Emirates Post Group",
+    "name": "Emirates Post Group"
+  },
+  {
+    "slug": "EMPS Express",
+    "name": "EMPS Express"
+  },
+  {
+    "slug": "EMS",
+    "name": "EMS"
+  },
+  {
+    "slug": "EMS Algeria Post",
+    "name": "EMS Algeria Post"
+  },
+  {
+    "slug": "EMS Ukraine",
+    "name": "EMS Ukraine"
+  },
+  {
+    "slug": "EMS Vietnam Post",
+    "name": "EMS Vietnam Post"
+  },
+  {
+    "slug": "Entrego",
+    "name": "Entrego"
+  },
+  {
+    "slug": "Envialia",
+    "name": "Envialia"
+  },
+  {
+    "slug": "Envoi",
+    "name": "Envoi"
+  },
+  {
+    "slug": "Eparcel US",
+    "name": "Eparcel US"
+  },
+  {
+    "slug": "eParcel.kr",
+    "name": "eParcel.kr"
+  },
+  {
+    "slug": "ePost Global",
+    "name": "ePost Global"
+  },
+  {
+    "slug": "EPS Globe",
+    "name": "EPS Globe"
+  },
+  {
+    "slug": "EQT",
+    "name": "EQT"
+  },
+  {
+    "slug": "EQuick China",
+    "name": "EQuick China"
+  },
+  {
+    "slug": "eRetail Logistics",
+    "name": "eRetail Logistics"
+  },
+  {
+    "slug": "ESE",
+    "name": "ESE"
+  },
+  {
+    "slug": "eShipper (Rivo)",
+    "name": "eShipper (Rivo)"
+  },
+  {
+    "slug": "Eshipping",
+    "name": "Eshipping"
+  },
+  {
+    "slug": "eShopWorld",
+    "name": "eShopWorld"
+  },
+  {
+    "slug": "Espoirer",
+    "name": "Espoirer"
+  },
+  {
+    "slug": "Estafeta",
+    "name": "Estafeta"
+  },
+  {
+    "slug": "Estes Express",
+    "name": "Estes Express"
+  },
+  {
+    "slug": "Estonia Post",
+    "name": "Estonia Post"
+  },
+  {
+    "slug": "Ethihad Cargo",
+    "name": "Ethihad Cargo"
+  },
+  {
+    "slug": "Ethiopia Post",
+    "name": "Ethiopia Post"
+  },
+  {
+    "slug": "Ethiopian Airlines Cargo",
+    "name": "Ethiopian Airlines Cargo"
+  },
+  {
+    "slug": "ETrak",
+    "name": "ETrak"
+  },
+  {
+    "slug": "ETS Express",
+    "name": "ETS Express"
+  },
+  {
+    "slug": "EUK",
+    "name": "EUK"
+  },
+  {
+    "slug": "Eurodis",
+    "name": "Eurodis"
+  },
+  {
+    "slug": "Europacco",
+    "name": "Europacco"
+  },
+  {
+    "slug": "euShipments",
+    "name": "euShipments"
+  },
+  {
+    "slug": "EVA Airways Cargo",
+    "name": "EVA Airways Cargo"
+  },
+  {
+    "slug": "Evergreen",
+    "name": "Evergreen"
+  },
+  {
+    "slug": "Evri",
+    "name": "Evri"
+  },
+  {
+    "slug": "Evri Business",
+    "name": "Evri Business"
+  },
+  {
+    "slug": "Evri International",
+    "name": "Evri International"
+  },
+  {
+    "slug": "Evropat",
+    "name": "Evropat"
+  },
+  {
+    "slug": "Evropochta",
+    "name": "Evropochta"
+  },
+  {
+    "slug": "EWE",
+    "name": "EWE"
+  },
+  {
+    "slug": "EWS Profit Fields",
+    "name": "EWS Profit Fields"
+  },
+  {
+    "slug": "Exelot",
+    "name": "Exelot"
+  },
+  {
+    "slug": "Expedico",
+    "name": "Expedico"
+  },
+  {
+    "slug": "Expedito",
+    "name": "Expedito"
+  },
+  {
+    "slug": "Expeditors",
+    "name": "Expeditors"
+  },
+  {
+    "slug": "ExpressOne",
+    "name": "ExpressOne"
+  },
+  {
+    "slug": "ExpressOne BG",
+    "name": "ExpressOne BG"
+  },
+  {
+    "slug": "ExpressOne Slovenia",
+    "name": "ExpressOne Slovenia"
+  },
+  {
+    "slug": "Ezex",
+    "name": "Ezex"
+  },
+  {
+    "slug": "Fafalux",
+    "name": "Fafalux"
+  },
+  {
+    "slug": "Famafutar",
+    "name": "Famafutar"
+  },
+  {
+    "slug": "Fan Courier",
+    "name": "Fan Courier"
+  },
+  {
+    "slug": "FAN Courier International",
+    "name": "FAN Courier International"
+  },
+  {
+    "slug": "Fan Sheng",
+    "name": "Fan Sheng"
+  },
+  {
+    "slug": "FAR",
+    "name": "FAR"
+  },
+  {
+    "slug": "Far Good",
+    "name": "Far Good"
+  },
+  {
+    "slug": "Fareye",
+    "name": "Fareye"
+  },
+  {
+    "slug": "Faryaa Panasia",
+    "name": "Faryaa Panasia"
+  },
+  {
+    "slug": "Fast & Furious",
+    "name": "Fast & Furious"
+  },
+  {
+    "slug": "Fast Courier Australia",
+    "name": "Fast Courier Australia"
+  },
+  {
+    "slug": "Fast Horse Australia",
+    "name": "Fast Horse Australia"
+  },
+  {
+    "slug": "Fast Horse New Zealand",
+    "name": "Fast Horse New Zealand"
+  },
+  {
+    "slug": "Fast Horse United States",
+    "name": "Fast Horse United States"
+  },
+  {
+    "slug": "Fast World Logistic - FWL",
+    "name": "Fast World Logistic - FWL"
+  },
+  {
+    "slug": "Fastbox",
+    "name": "Fastbox"
+  },
+  {
+    "slug": "Fastdespatch",
+    "name": "Fastdespatch"
+  },
+  {
+    "slug": "Faster",
+    "name": "Faster"
+  },
+  {
+    "slug": "Faster.ae",
+    "name": "Faster.ae"
+  },
+  {
+    "slug": "Fastship",
+    "name": "Fastship"
+  },
+  {
+    "slug": "FastWay Ireland",
+    "name": "FastWay Ireland"
+  },
+  {
+    "slug": "Fastway South Africa",
+    "name": "Fastway South Africa"
+  },
+  {
+    "slug": "FDM",
+    "name": "FDM"
+  },
+  {
+    "slug": "FedEx",
+    "name": "FedEx"
+  },
+  {
+    "slug": "FedEx Cross Border",
+    "name": "FedEx Cross Border"
+  },
+  {
+    "slug": "FedEx France",
+    "name": "FedEx France"
+  },
+  {
+    "slug": "FedEx Freight",
+    "name": "FedEx Freight"
+  },
+  {
+    "slug": "FedEx International MailService",
+    "name": "FedEx International MailService"
+  },
+  {
+    "slug": "FedEx Polska",
+    "name": "FedEx Polska"
+  },
+  {
+    "slug": "Feia",
+    "name": "Feia"
+  },
+  {
+    "slug": "Fengdu",
+    "name": "Fengdu"
+  },
+  {
+    "slug": "Fermopoint",
+    "name": "Fermopoint"
+  },
+  {
+    "slug": "Fetchr",
+    "name": "Fetchr"
+  },
+  {
+    "slug": "Fietskoeriers",
+    "name": "Fietskoeriers"
+  },
+  {
+    "slug": "Fiji Post",
+    "name": "Fiji Post"
+  },
+  {
+    "slug": "Fillogic",
+    "name": "Fillogic"
+  },
+  {
+    "slug": "Finland Post",
+    "name": "Finland Post"
+  },
+  {
+    "slug": "Finnair Cargo",
+    "name": "Finnair Cargo"
+  },
+  {
+    "slug": "First Flight Couriers",
+    "name": "First Flight Couriers"
+  },
+  {
+    "slug": "First Global Logistics",
+    "name": "First Global Logistics"
+  },
+  {
+    "slug": "First Line",
+    "name": "First Line"
+  },
+  {
+    "slug": "FirstMile",
+    "name": "FirstMile"
+  },
+  {
+    "slug": "FJEX",
+    "name": "FJEX"
+  },
+  {
+    "slug": "Flash Box",
+    "name": "Flash Box"
+  },
+  {
+    "slug": "Flash Express",
+    "name": "Flash Express"
+  },
+  {
+    "slug": "Flash Express Malaysia",
+    "name": "Flash Express Malaysia"
+  },
+  {
+    "slug": "Flash Express Philippines",
+    "name": "Flash Express Philippines"
+  },
+  {
+    "slug": "Flashbird",
+    "name": "Flashbird"
+  },
+  {
+    "slug": "FleetOptics",
+    "name": "FleetOptics"
+  },
+  {
+    "slug": "Flip Post",
+    "name": "Flip Post"
+  },
+  {
+    "slug": "Fliway",
+    "name": "Fliway"
+  },
+  {
+    "slug": "Flow Commerce",
+    "name": "Flow Commerce"
+  },
+  {
+    "slug": "flydubai Cargo",
+    "name": "flydubai Cargo"
+  },
+  {
+    "slug": "Flyt Express",
+    "name": "Flyt Express"
+  },
+  {
+    "slug": "FOFR",
+    "name": "FOFR"
+  },
+  {
+    "slug": "Forward",
+    "name": "Forward"
+  },
+  {
+    "slug": "Four Seasons Fly",
+    "name": "Four Seasons Fly"
+  },
+  {
+    "slug": "FoxPost",
+    "name": "FoxPost"
+  },
+  {
+    "slug": "FQD",
+    "name": "FQD"
+  },
+  {
+    "slug": "FragranceNet",
+    "name": "FragranceNet"
+  },
+  {
+    "slug": "France Express",
+    "name": "France Express"
+  },
+  {
+    "slug": "Freight Mark Express",
+    "name": "Freight Mark Express"
+  },
+  {
+    "slug": "FreightQuote / C.H. Robinson",
+    "name": "FreightQuote / C.H. Robinson"
+  },
+  {
+    "slug": "French Polynesia Post",
+    "name": "French Polynesia Post"
+  },
+  {
+    "slug": "Frontier",
+    "name": "Frontier"
+  },
+  {
+    "slug": "FSGJ",
+    "name": "FSGJ"
+  },
+  {
+    "slug": "FSQH",
+    "name": "FSQH"
+  },
+  {
+    "slug": "FST Express",
+    "name": "FST Express"
+  },
+  {
+    "slug": "Fukuyama Transporting (福山通運)",
+    "name": "Fukuyama Transporting (福山通運)"
+  },
+  {
+    "slug": "Fulfillmen",
+    "name": "Fulfillmen"
+  },
+  {
+    "slug": "Fulmine Group",
+    "name": "Fulmine Group"
+  },
+  {
+    "slug": "GAASH Worldwide",
+    "name": "GAASH Worldwide"
+  },
+  {
+    "slug": "Gallop",
+    "name": "Gallop"
+  },
+  {
+    "slug": "Gande",
+    "name": "Gande"
+  },
+  {
+    "slug": "Garuda Indonesia Cargo",
+    "name": "Garuda Indonesia Cargo"
+  },
+  {
+    "slug": "GATI",
+    "name": "GATI"
+  },
+  {
+    "slug": "GCLG",
+    "name": "GCLG"
+  },
+  {
+    "slug": "GCX Israel",
+    "name": "GCX Israel"
+  },
+  {
+    "slug": "GDEX",
+    "name": "GDEX"
+  },
+  {
+    "slug": "GearBest Logistics",
+    "name": "GearBest Logistics"
+  },
+  {
+    "slug": "Geis Group",
+    "name": "Geis Group"
+  },
+  {
+    "slug": "Geis Poland",
+    "name": "Geis Poland"
+  },
+  {
+    "slug": "GEL Express Logistik",
+    "name": "GEL Express Logistik"
+  },
+  {
+    "slug": "Geniki Taxydromiki",
+    "name": "Geniki Taxydromiki"
+  },
+  {
+    "slug": "GEODIS E-space",
+    "name": "GEODIS E-space"
+  },
+  {
+    "slug": "Georgia Post",
+    "name": "Georgia Post"
+  },
+  {
+    "slug": "GFS Deliver",
+    "name": "GFS Deliver"
+  },
+  {
+    "slug": "GFS Express",
+    "name": "GFS Express"
+  },
+  {
+    "slug": "Ghana Post",
+    "name": "Ghana Post"
+  },
+  {
+    "slug": "GHD",
+    "name": "GHD"
+  },
+  {
+    "slug": "GHN / Giao Hang Nhanh",
+    "name": "GHN / Giao Hang Nhanh"
+  },
+  {
+    "slug": "GIO Express Inc",
+    "name": "GIO Express Inc"
+  },
+  {
+    "slug": "Glavdostavka",
+    "name": "Glavdostavka"
+  },
+  {
+    "slug": "Global Broker Solution",
+    "name": "Global Broker Solution"
+  },
+  {
+    "slug": "Global Delivery Network",
+    "name": "Global Delivery Network"
+  },
+  {
+    "slug": "Global Leader",
+    "name": "Global Leader"
+  },
+  {
+    "slug": "Global-e",
+    "name": "Global-e"
+  },
+  {
+    "slug": "GlobalEco",
+    "name": "GlobalEco"
+  },
+  {
+    "slug": "Globegistics",
+    "name": "Globegistics"
+  },
+  {
+    "slug": "GlobKurier",
+    "name": "GlobKurier"
+  },
+  {
+    "slug": "Glovo",
+    "name": "Glovo"
+  },
+  {
+    "slug": "GLS",
+    "name": "GLS"
+  },
+  {
+    "slug": "GLS Canada",
+    "name": "GLS Canada"
+  },
+  {
+    "slug": "GLS Croatia",
+    "name": "GLS Croatia"
+  },
+  {
+    "slug": "GLS Czech Republic",
+    "name": "GLS Czech Republic"
+  },
+  {
+    "slug": "GLS Hungary",
+    "name": "GLS Hungary"
+  },
+  {
+    "slug": "GLS Italy",
+    "name": "GLS Italy"
+  },
+  {
+    "slug": "GLS Netherlands",
+    "name": "GLS Netherlands"
+  },
+  {
+    "slug": "GLS Pakete",
+    "name": "GLS Pakete"
+  },
+  {
+    "slug": "GLS Romania",
+    "name": "GLS Romania"
+  },
+  {
+    "slug": "GLS Spain (ASM)",
+    "name": "GLS Spain (ASM)"
+  },
+  {
+    "slug": "Gnewt",
+    "name": "Gnewt"
+  },
+  {
+    "slug": "Go GlobalPost",
+    "name": "Go GlobalPost"
+  },
+  {
+    "slug": "GO! Express & Logistics",
+    "name": "GO! Express & Logistics"
+  },
+  {
+    "slug": "GoB2C",
+    "name": "GoB2C"
+  },
+  {
+    "slug": "GoBolt",
+    "name": "GoBolt"
+  },
+  {
+    "slug": "GoFo Express",
+    "name": "GoFo Express"
+  },
+  {
+    "slug": "GoFor",
+    "name": "GoFor"
+  },
+  {
+    "slug": "GOGO Express",
+    "name": "GOGO Express"
+  },
+  {
+    "slug": "Goodmaji",
+    "name": "Goodmaji"
+  },
+  {
+    "slug": "GoPeople",
+    "name": "GoPeople"
+  },
+  {
+    "slug": "GoTo Logistics",
+    "name": "GoTo Logistics"
+  },
+  {
+    "slug": "GOX",
+    "name": "GOX"
+  },
+  {
+    "slug": "Granful",
+    "name": "Granful"
+  },
+  {
+    "slug": "Greece Post",
+    "name": "Greece Post"
+  },
+  {
+    "slug": "Greenland Post",
+    "name": "Greenland Post"
+  },
+  {
+    "slug": "Grupo AM/PM",
+    "name": "Grupo AM/PM"
+  },
+  {
+    "slug": "GSPL",
+    "name": "GSPL"
+  },
+  {
+    "slug": "GTA GSM",
+    "name": "GTA GSM"
+  },
+  {
+    "slug": "GTI",
+    "name": "GTI"
+  },
+  {
+    "slug": "GTS Express",
+    "name": "GTS Express"
+  },
+  {
+    "slug": "Guangyy",
+    "name": "Guangyy"
+  },
+  {
+    "slug": "Guernsey Post",
+    "name": "Guernsey Post"
+  },
+  {
+    "slug": "Gulf Air Cargo",
+    "name": "Gulf Air Cargo"
+  },
+  {
+    "slug": "Guoo",
+    "name": "Guoo"
+  },
+  {
+    "slug": "H&M",
+    "name": "H&M"
+  },
+  {
+    "slug": "H&M Russia",
+    "name": "H&M Russia"
+  },
+  {
+    "slug": "Hailify",
+    "name": "Hailify"
+  },
+  {
+    "slug": "Hainan Airlines HNA Cargo",
+    "name": "Hainan Airlines HNA Cargo"
+  },
+  {
+    "slug": "Hangpai",
+    "name": "Hangpai"
+  },
+  {
+    "slug": "Hanjin Express",
+    "name": "Hanjin Express"
+  },
+  {
+    "slug": "Hapag Lloyd",
+    "name": "Hapag Lloyd"
+  },
+  {
+    "slug": "Hapag Lloyd Bill of Lading",
+    "name": "Hapag Lloyd Bill of Lading"
+  },
+  {
+    "slug": "Happy Post",
+    "name": "Happy Post"
+  },
+  {
+    "slug": "Hart2Hart Express",
+    "name": "Hart2Hart Express"
+  },
+  {
+    "slug": "Hawaiian Air Cargo",
+    "name": "Hawaiian Air Cargo"
+  },
+  {
+    "slug": "HC Logistics",
+    "name": "HC Logistics"
+  },
+  {
+    "slug": "Hecny E-com",
+    "name": "Hecny E-com"
+  },
+  {
+    "slug": "Hellmann Air/Sea",
+    "name": "Hellmann Air/Sea"
+  },
+  {
+    "slug": "Hellmann Road",
+    "name": "Hellmann Road"
+  },
+  {
+    "slug": "Hellmann Worldwide Logistics",
+    "name": "Hellmann Worldwide Logistics"
+  },
+  {
+    "slug": "Helthjem",
+    "name": "Helthjem"
+  },
+  {
+    "slug": "Heping Logistics",
+    "name": "Heping Logistics"
+  },
+  {
+    "slug": "Hermes",
+    "name": "Hermes"
+  },
+  {
+    "slug": "Hermes 2-Mann-Handling HES",
+    "name": "Hermes 2-Mann-Handling HES"
+  },
+  {
+    "slug": "Hermes Borderguru",
+    "name": "Hermes Borderguru"
+  },
+  {
+    "slug": "Hermes Italia",
+    "name": "Hermes Italia"
+  },
+  {
+    "slug": "Hermes Russia",
+    "name": "Hermes Russia"
+  },
+  {
+    "slug": "Hero Express",
+    "name": "Hero Express"
+  },
+  {
+    "slug": "HFD/e-Post",
+    "name": "HFD/e-Post"
+  },
+  {
+    "slug": "HHH",
+    "name": "HHH"
+  },
+  {
+    "slug": "Hispapost",
+    "name": "Hispapost"
+  },
+  {
+    "slug": "Hived",
+    "name": "Hived"
+  },
+  {
+    "slug": "HMCP",
+    "name": "HMCP"
+  },
+  {
+    "slug": "HMG",
+    "name": "HMG"
+  },
+  {
+    "slug": "Homerr",
+    "name": "Homerr"
+  },
+  {
+    "slug": "Hong Kong Air Cargo",
+    "name": "Hong Kong Air Cargo"
+  },
+  {
+    "slug": "Hong Kong Post",
+    "name": "Hong Kong Post"
+  },
+  {
+    "slug": "Hongyuan Group",
+    "name": "Hongyuan Group"
+  },
+  {
+    "slug": "Hound Express",
+    "name": "Hound Express"
+  },
+  {
+    "slug": "Hoyang Express",
+    "name": "Hoyang Express"
+  },
+  {
+    "slug": "HR Parcel",
+    "name": "HR Parcel"
+  },
+  {
+    "slug": "HSD Express",
+    "name": "HSD Express"
+  },
+  {
+    "slug": "HSDGJ",
+    "name": "HSDGJ"
+  },
+  {
+    "slug": "HST Express",
+    "name": "HST Express"
+  },
+  {
+    "slug": "HTH",
+    "name": "HTH"
+  },
+  {
+    "slug": "HUA",
+    "name": "HUA"
+  },
+  {
+    "slug": "HuaHang Express",
+    "name": "HuaHang Express"
+  },
+  {
+    "slug": "Huanhan Logistics",
+    "name": "Huanhan Logistics"
+  },
+  {
+    "slug": "Huanshi",
+    "name": "Huanshi"
+  },
+  {
+    "slug": "HuanTong",
+    "name": "HuanTong"
+  },
+  {
+    "slug": "HuaXiang Logistics",
+    "name": "HuaXiang Logistics"
+  },
+  {
+    "slug": "Hungarian Post",
+    "name": "Hungarian Post"
+  },
+  {
+    "slug": "Hunter Express",
+    "name": "Hunter Express"
+  },
+  {
+    "slug": "Huya Express",
+    "name": "Huya Express"
+  },
+  {
+    "slug": "HX",
+    "name": "HX"
+  },
+  {
+    "slug": "HYD",
+    "name": "HYD"
+  },
+  {
+    "slug": "HYEXP",
+    "name": "HYEXP"
+  },
+  {
+    "slug": "HYJY",
+    "name": "HYJY"
+  },
+  {
+    "slug": "HYSJ",
+    "name": "HYSJ"
+  },
+  {
+    "slug": "Iberia Airlines Cargo",
+    "name": "Iberia Airlines Cargo"
+  },
+  {
+    "slug": "ICC Worldwide",
+    "name": "ICC Worldwide"
+  },
+  {
+    "slug": "Iceland Post",
+    "name": "Iceland Post"
+  },
+  {
+    "slug": "Icelandair Cargo",
+    "name": "Icelandair Cargo"
+  },
+  {
+    "slug": "ICS Courier",
+    "name": "ICS Courier"
+  },
+  {
+    "slug": "iCumulus",
+    "name": "iCumulus"
+  },
+  {
+    "slug": "ID Express",
+    "name": "ID Express"
+  },
+  {
+    "slug": "IDS Logistik",
+    "name": "IDS Logistik"
+  },
+  {
+    "slug": "ie-Post",
+    "name": "ie-Post"
+  },
+  {
+    "slug": "iHerb",
+    "name": "iHerb"
+  },
+  {
+    "slug": "IITW",
+    "name": "IITW"
+  },
+  {
+    "slug": "IKEA Indonesia",
+    "name": "IKEA Indonesia"
+  },
+  {
+    "slug": "IKEA iSell - IKEA",
+    "name": "IKEA iSell - IKEA"
+  },
+  {
+    "slug": "IKEA UAE",
+    "name": "IKEA UAE"
+  },
+  {
+    "slug": "ILG UK",
+    "name": "ILG UK"
+  },
+  {
+    "slug": "iLine",
+    "name": "iLine"
+  },
+  {
+    "slug": "IMEX Global Solutions",
+    "name": "IMEX Global Solutions"
+  },
+  {
+    "slug": "iMile",
+    "name": "iMile"
+  },
+  {
+    "slug": "IML",
+    "name": "IML"
+  },
+  {
+    "slug": "IMX France",
+    "name": "IMX France"
+  },
+  {
+    "slug": "In Time",
+    "name": "In Time"
+  },
+  {
+    "slug": "Indah Logistik Cargo",
+    "name": "Indah Logistik Cargo"
+  },
+  {
+    "slug": "India Post",
+    "name": "India Post"
+  },
+  {
+    "slug": "India Speed ​​Post",
+    "name": "India Speed ​​Post"
+  },
+  {
+    "slug": "IndiGo Cargo",
+    "name": "IndiGo Cargo"
+  },
+  {
+    "slug": "Indonesia Logistics",
+    "name": "Indonesia Logistics"
+  },
+  {
+    "slug": "InPost Poland",
+    "name": "InPost Poland"
+  },
+  {
+    "slug": "InPost Spain",
+    "name": "InPost Spain"
+  },
+  {
+    "slug": "InPost UK",
+    "name": "InPost UK"
+  },
+  {
+    "slug": "InPost.it",
+    "name": "InPost.it"
+  },
+  {
+    "slug": "Instabox",
+    "name": "Instabox"
+  },
+  {
+    "slug": "Instabox.nl",
+    "name": "Instabox.nl"
+  },
+  {
+    "slug": "Instapack",
+    "name": "Instapack"
+  },
+  {
+    "slug": "Intelcom Express",
+    "name": "Intelcom Express"
+  },
+  {
+    "slug": "Inter Parcel",
+    "name": "Inter Parcel"
+  },
+  {
+    "slug": "Intereuropa Group",
+    "name": "Intereuropa Group"
+  },
+  {
+    "slug": "Interlogistica",
+    "name": "Interlogistica"
+  },
+  {
+    "slug": "INTEX Paketdienst",
+    "name": "INTEX Paketdienst"
+  },
+  {
+    "slug": "InTime Bulgaria",
+    "name": "InTime Bulgaria"
+  },
+  {
+    "slug": "InTime Express Croatia",
+    "name": "InTime Express Croatia"
+  },
+  {
+    "slug": "Intime Ship",
+    "name": "Intime Ship"
+  },
+  {
+    "slug": "Intrapost",
+    "name": "Intrapost"
+  },
+  {
+    "slug": "IQ Fulfillment",
+    "name": "IQ Fulfillment"
+  },
+  {
+    "slug": "IQS",
+    "name": "IQS"
+  },
+  {
+    "slug": "Iraq Post",
+    "name": "Iraq Post"
+  },
+  {
+    "slug": "Islandwide",
+    "name": "Islandwide"
+  },
+  {
+    "slug": "Israel Post",
+    "name": "Israel Post"
+  },
+  {
+    "slug": "Italy Post",
+    "name": "Italy Post"
+  },
+  {
+    "slug": "Itella",
+    "name": "Itella"
+  },
+  {
+    "slug": "Ivoy",
+    "name": "Ivoy"
+  },
+  {
+    "slug": "J-Net",
+    "name": "J-Net"
+  },
+  {
+    "slug": "Jadlog",
+    "name": "Jadlog"
+  },
+  {
+    "slug": "JAL Japan Airlines Cargo",
+    "name": "JAL Japan Airlines Cargo"
+  },
+  {
+    "slug": "Janco eCommerce",
+    "name": "Janco eCommerce"
+  },
+  {
+    "slug": "Janio",
+    "name": "Janio"
+  },
+  {
+    "slug": "Japan Post",
+    "name": "Japan Post"
+  },
+  {
+    "slug": "JAS Post",
+    "name": "JAS Post"
+  },
+  {
+    "slug": "Jaskipin",
+    "name": "Jaskipin"
+  },
+  {
+    "slug": "JCEX",
+    "name": "JCEX"
+  },
+  {
+    "slug": "JCH",
+    "name": "JCH"
+  },
+  {
+    "slug": "JCW Express",
+    "name": "JCW Express"
+  },
+  {
+    "slug": "JDL",
+    "name": "JDL"
+  },
+  {
+    "slug": "JDL Express",
+    "name": "JDL Express"
+  },
+  {
+    "slug": "JDY",
+    "name": "JDY"
+  },
+  {
+    "slug": "Jersey Post",
+    "name": "Jersey Post"
+  },
+  {
+    "slug": "JET E-Commerce Logistics",
+    "name": "JET E-Commerce Logistics"
+  },
+  {
+    "slug": "Jet-Ship Worldwide",
+    "name": "Jet-Ship Worldwide"
+  },
+  {
+    "slug": "Jiabeida",
+    "name": "Jiabeida"
+  },
+  {
+    "slug": "Jiayou",
+    "name": "Jiayou"
+  },
+  {
+    "slug": "Jiayou Express",
+    "name": "Jiayou Express"
+  },
+  {
+    "slug": "Jiehang",
+    "name": "Jiehang"
+  },
+  {
+    "slug": "Jifan",
+    "name": "Jifan"
+  },
+  {
+    "slug": "Jingdong Logistics",
+    "name": "Jingdong Logistics"
+  },
+  {
+    "slug": "Jinshida",
+    "name": "Jinshida"
+  },
+  {
+    "slug": "Jintaida International Logistics",
+    "name": "Jintaida International Logistics"
+  },
+  {
+    "slug": "Jitsu / AxleHire",
+    "name": "Jitsu / AxleHire"
+  },
+  {
+    "slug": "JNE",
+    "name": "JNE"
+  },
+  {
+    "slug": "Joeyco",
+    "name": "Joeyco"
+  },
+  {
+    "slug": "Joom Logistics",
+    "name": "Joom Logistics"
+  },
+  {
+    "slug": "Jordan Post",
+    "name": "Jordan Post"
+  },
+  {
+    "slug": "Joyingbox",
+    "name": "Joyingbox"
+  },
+  {
+    "slug": "JR",
+    "name": "JR"
+  },
+  {
+    "slug": "JRMT",
+    "name": "JRMT"
+  },
+  {
+    "slug": "JRS Express",
+    "name": "JRS Express"
+  },
+  {
+    "slug": "JS Express",
+    "name": "JS Express"
+  },
+  {
+    "slug": "JSH",
+    "name": "JSH"
+  },
+  {
+    "slug": "Jumia",
+    "name": "Jumia"
+  },
+  {
+    "slug": "Jump Point",
+    "name": "Jump Point"
+  },
+  {
+    "slug": "Juneyao Air Cargo",
+    "name": "Juneyao Air Cargo"
+  },
+  {
+    "slug": "Junya",
+    "name": "Junya"
+  },
+  {
+    "slug": "Justin",
+    "name": "Justin"
+  },
+  {
+    "slug": "Juxi Express",
+    "name": "Juxi Express"
+  },
+  {
+    "slug": "Juxin",
+    "name": "Juxin"
+  },
+  {
+    "slug": "JY Express",
+    "name": "JY Express"
+  },
+  {
+    "slug": "JYKJ",
+    "name": "JYKJ"
+  },
+  {
+    "slug": "JYTD",
+    "name": "JYTD"
+  },
+  {
+    "slug": "JZDD",
+    "name": "JZDD"
+  },
+  {
+    "slug": "Kaixuanjia",
+    "name": "Kaixuanjia"
+  },
+  {
+    "slug": "Kalitta Air Cargo",
+    "name": "Kalitta Air Cargo"
+  },
+  {
+    "slug": "Kart2Door",
+    "name": "Kart2Door"
+  },
+  {
+    "slug": "Kenya Airways Cargo",
+    "name": "Kenya Airways Cargo"
+  },
+  {
+    "slug": "Kenya Post",
+    "name": "Kenya Post"
+  },
+  {
+    "slug": "Kerry eCommerce",
+    "name": "Kerry eCommerce"
+  },
+  {
+    "slug": "Kerry Express",
+    "name": "Kerry Express"
+  },
+  {
+    "slug": "Kerry Express Thailand",
+    "name": "Kerry Express Thailand"
+  },
+  {
+    "slug": "Keythus",
+    "name": "Keythus"
+  },
+  {
+    "slug": "Kimigo",
+    "name": "Kimigo"
+  },
+  {
+    "slug": "King Wah Tat Logistics",
+    "name": "King Wah Tat Logistics"
+  },
+  {
+    "slug": "KJY",
+    "name": "KJY"
+  },
+  {
+    "slug": "KLM Cargo",
+    "name": "KLM Cargo"
+  },
+  {
+    "slug": "Komon Express",
+    "name": "Komon Express"
+  },
+  {
+    "slug": "Korean Air Cargo",
+    "name": "Korean Air Cargo"
+  },
+  {
+    "slug": "Kronos Express",
+    "name": "Kronos Express"
+  },
+  {
+    "slug": "KSS",
+    "name": "KSS"
+  },
+  {
+    "slug": "KTD",
+    "name": "KTD"
+  },
+  {
+    "slug": "KTMD",
+    "name": "KTMD"
+  },
+  {
+    "slug": "Kuaiyan",
+    "name": "Kuaiyan"
+  },
+  {
+    "slug": "Kuayida",
+    "name": "Kuayida"
+  },
+  {
+    "slug": "Kuehne + Nagel",
+    "name": "Kuehne + Nagel"
+  },
+  {
+    "slug": "Kurasi",
+    "name": "Kurasi"
+  },
+  {
+    "slug": "Kurjerzy.pl",
+    "name": "Kurjerzy.pl"
+  },
+  {
+    "slug": "Kuwait Airways Cargo",
+    "name": "Kuwait Airways Cargo"
+  },
+  {
+    "slug": "Kuwait Post",
+    "name": "Kuwait Post"
+  },
+  {
+    "slug": "Kyrgyzstan Post",
+    "name": "Kyrgyzstan Post"
+  },
+  {
+    "slug": "La Nuova Posta",
+    "name": "La Nuova Posta"
+  },
+  {
+    "slug": "La Poste",
+    "name": "La Poste",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "slug": "La Poste Burkina Faso",
+    "name": "La Poste Burkina Faso"
+  },
+  {
+    "slug": "La Poste du Benin",
+    "name": "La Poste du Benin"
+  },
+  {
+    "slug": "Land Logistics",
+    "name": "Land Logistics"
+  },
+  {
+    "slug": "Landmark Global",
+    "name": "Landmark Global"
+  },
+  {
+    "slug": "Laos Post",
+    "name": "Laos Post"
+  },
+  {
+    "slug": "LaserShip",
+    "name": "LaserShip"
+  },
+  {
+    "slug": "LATAM Cargo",
+    "name": "LATAM Cargo"
+  },
+  {
+    "slug": "Latvia Post",
+    "name": "Latvia Post"
+  },
+  {
+    "slug": "Lazada LeL Express",
+    "name": "Lazada LeL Express"
+  },
+  {
+    "slug": "LBC Express",
+    "name": "LBC Express"
+  },
+  {
+    "slug": "LBTX",
+    "name": "LBTX"
+  },
+  {
+    "slug": "LDGJ",
+    "name": "LDGJ"
+  },
+  {
+    "slug": "LDT",
+    "name": "LDT"
+  },
+  {
+    "slug": "Leapro",
+    "name": "Leapro"
+  },
+  {
+    "slug": "Leopards Courier",
+    "name": "Leopards Courier"
+  },
+  {
+    "slug": "Leroy Merlin",
+    "name": "Leroy Merlin"
+  },
+  {
+    "slug": "LetterTrack",
+    "name": "LetterTrack"
+  },
+  {
+    "slug": "LexShip",
+    "name": "LexShip"
+  },
+  {
+    "slug": "LIB",
+    "name": "LIB"
+  },
+  {
+    "slug": "Liccardi Reference",
+    "name": "Liccardi Reference"
+  },
+  {
+    "slug": "Liccardi Trasporti",
+    "name": "Liccardi Trasporti"
+  },
+  {
+    "slug": "Lidi",
+    "name": "Lidi"
+  },
+  {
+    "slug": "Lidl",
+    "name": "Lidl"
+  },
+  {
+    "slug": "Liefergruen",
+    "name": "Liefergruen"
+  },
+  {
+    "slug": "Liefery",
+    "name": "Liefery"
+  },
+  {
+    "slug": "LifeMF",
+    "name": "LifeMF"
+  },
+  {
+    "slug": "Lightboat",
+    "name": "Lightboat"
+  },
+  {
+    "slug": "Line Clear Express & Logistics Sdn Bhd",
+    "name": "Line Clear Express & Logistics Sdn Bhd"
+  },
+  {
+    "slug": "Lineer Post",
+    "name": "Lineer Post"
+  },
+  {
+    "slug": "Linex",
+    "name": "Linex"
+  },
+  {
+    "slug": "Lingjing",
+    "name": "Lingjing"
+  },
+  {
+    "slug": "Linhan",
+    "name": "Linhan"
+  },
+  {
+    "slug": "Link Bridge",
+    "name": "Link Bridge"
+  },
+  {
+    "slug": "Lion Air Cargo",
+    "name": "Lion Air Cargo"
+  },
+  {
+    "slug": "Lion Parcel",
+    "name": "Lion Parcel"
+  },
+  {
+    "slug": "Lithuania Post",
+    "name": "Lithuania Post"
+  },
+  {
+    "slug": "Liuchen",
+    "name": "Liuchen"
+  },
+  {
+    "slug": "LM Parcel",
+    "name": "LM Parcel"
+  },
+  {
+    "slug": "Loggi",
+    "name": "Loggi"
+  },
+  {
+    "slug": "Logic",
+    "name": "Logic"
+  },
+  {
+    "slug": "Logistics Worldwide Express",
+    "name": "Logistics Worldwide Express"
+  },
+  {
+    "slug": "Logoix",
+    "name": "Logoix"
+  },
+  {
+    "slug": "Lone Star Overnight",
+    "name": "Lone Star Overnight"
+  },
+  {
+    "slug": "LongYuan",
+    "name": "LongYuan"
+  },
+  {
+    "slug": "Loomis Express",
+    "name": "Loomis Express"
+  },
+  {
+    "slug": "LOT Polish Airlines Cargo",
+    "name": "LOT Polish Airlines Cargo"
+  },
+  {
+    "slug": "Lotte Global Logistics",
+    "name": "Lotte Global Logistics"
+  },
+  {
+    "slug": "Ltian",
+    "name": "Ltian"
+  },
+  {
+    "slug": "Lufthansa Cargo",
+    "name": "Lufthansa Cargo"
+  },
+  {
+    "slug": "Luxembourg Post",
+    "name": "Luxembourg Post"
+  },
+  {
+    "slug": "LX Pantos / ePantos",
+    "name": "LX Pantos / ePantos"
+  },
+  {
+    "slug": "Macau Post",
+    "name": "Macau Post"
+  },
+  {
+    "slug": "Macedonia Post",
+    "name": "Macedonia Post"
+  },
+  {
+    "slug": "Machool",
+    "name": "Machool"
+  },
+  {
+    "slug": "Madrooex",
+    "name": "Madrooex"
+  },
+  {
+    "slug": "Maegmant",
+    "name": "Maegmant"
+  },
+  {
+    "slug": "Maergo",
+    "name": "Maergo"
+  },
+  {
+    "slug": "Maersk eCommerce",
+    "name": "Maersk eCommerce"
+  },
+  {
+    "slug": "Maersk Line",
+    "name": "Maersk Line"
+  },
+  {
+    "slug": "Mahan Air Cargo",
+    "name": "Mahan Air Cargo"
+  },
+  {
+    "slug": "Mail Alliance",
+    "name": "Mail Alliance"
+  },
+  {
+    "slug": "Mail Boxes Etc. Croatia",
+    "name": "Mail Boxes Etc. Croatia"
+  },
+  {
+    "slug": "Mail Boxes Etc. France",
+    "name": "Mail Boxes Etc. France"
+  },
+  {
+    "slug": "Mail Boxes Etc. Germany",
+    "name": "Mail Boxes Etc. Germany"
+  },
+  {
+    "slug": "Mail Boxes Etc. Italy",
+    "name": "Mail Boxes Etc. Italy"
+  },
+  {
+    "slug": "Mail Boxes Etc. Spain",
+    "name": "Mail Boxes Etc. Spain"
+  },
+  {
+    "slug": "MailAmericas",
+    "name": "MailAmericas"
+  },
+  {
+    "slug": "Mailog",
+    "name": "Mailog"
+  },
+  {
+    "slug": "Mainfreight",
+    "name": "Mainfreight"
+  },
+  {
+    "slug": "Make Fly",
+    "name": "Make Fly"
+  },
+  {
+    "slug": "Malaysia Airlines MASKargo",
+    "name": "Malaysia Airlines MASKargo"
+  },
+  {
+    "slug": "Malaysia Post",
+    "name": "Malaysia Post"
+  },
+  {
+    "slug": "Maldives Post",
+    "name": "Maldives Post"
+  },
+  {
+    "slug": "Malta Post",
+    "name": "Malta Post"
+  },
+  {
+    "slug": "MasAir Cargo",
+    "name": "MasAir Cargo"
+  },
+  {
+    "slug": "Matdespatch",
+    "name": "Matdespatch"
+  },
+  {
+    "slug": "Matkahuolto",
+    "name": "Matkahuolto"
+  },
+  {
+    "slug": "Mauritius Post",
+    "name": "Mauritius Post"
+  },
+  {
+    "slug": "Max Pakket",
+    "name": "Max Pakket"
+  },
+  {
+    "slug": "Maxi Post China",
+    "name": "Maxi Post China"
+  },
+  {
+    "slug": "MaxiPost",
+    "name": "MaxiPost"
+  },
+  {
+    "slug": "Maxway",
+    "name": "Maxway"
+  },
+  {
+    "slug": "Mayiyinfu",
+    "name": "Mayiyinfu"
+  },
+  {
+    "slug": "Meest china",
+    "name": "Meest china"
+  },
+  {
+    "slug": "Meest Group",
+    "name": "Meest Group"
+  },
+  {
+    "slug": "Meest Post",
+    "name": "Meest Post"
+  },
+  {
+    "slug": "Meijie",
+    "name": "Meijie"
+  },
+  {
+    "slug": "Meiteshun",
+    "name": "Meiteshun"
+  },
+  {
+    "slug": "Melhor Rastreio",
+    "name": "Melhor Rastreio"
+  },
+  {
+    "slug": "Mercury Americas",
+    "name": "Mercury Americas"
+  },
+  {
+    "slug": "Metapack",
+    "name": "Metapack"
+  },
+  {
+    "slug": "Mexico Post",
+    "name": "Mexico Post"
+  },
+  {
+    "slug": "MH Fly",
+    "name": "MH Fly"
+  },
+  {
+    "slug": "MHGJ",
+    "name": "MHGJ"
+  },
+  {
+    "slug": "Micro Express",
+    "name": "Micro Express"
+  },
+  {
+    "slug": "Middle Eastern Airlines Cargo",
+    "name": "Middle Eastern Airlines Cargo"
+  },
+  {
+    "slug": "Mingyang",
+    "name": "Mingyang"
+  },
+  {
+    "slug": "Mingzhi",
+    "name": "Mingzhi"
+  },
+  {
+    "slug": "Miuson - Miao International Logistics",
+    "name": "Miuson - Miao International Logistics"
+  },
+  {
+    "slug": "MNG Airlines Cargo",
+    "name": "MNG Airlines Cargo"
+  },
+  {
+    "slug": "Moldavia Post",
+    "name": "Moldavia Post"
+  },
+  {
+    "slug": "Monclick",
+    "name": "Monclick"
+  },
+  {
+    "slug": "Mondial Relay",
+    "name": "Mondial Relay"
+  },
+  {
+    "slug": "Mongolia Post",
+    "name": "Mongolia Post"
+  },
+  {
+    "slug": "Montenegro Post",
+    "name": "Montenegro Post"
+  },
+  {
+    "slug": "Morning Global",
+    "name": "Morning Global"
+  },
+  {
+    "slug": "Morocco Post",
+    "name": "Morocco Post"
+  },
+  {
+    "slug": "Moscow Cargo",
+    "name": "Moscow Cargo"
+  },
+  {
+    "slug": "MOX",
+    "name": "MOX"
+  },
+  {
+    "slug": "MRW",
+    "name": "MRW"
+  },
+  {
+    "slug": "MSC",
+    "name": "MSC"
+  },
+  {
+    "slug": "MSGJ",
+    "name": "MSGJ"
+  },
+  {
+    "slug": "Muser",
+    "name": "Muser"
+  },
+  {
+    "slug": "myBRT.it",
+    "name": "myBRT.it"
+  },
+  {
+    "slug": "myHermes DE",
+    "name": "myHermes DE"
+  },
+  {
+    "slug": "MyIB International Bridge",
+    "name": "MyIB International Bridge"
+  },
+  {
+    "slug": "MyLogicon",
+    "name": "MyLogicon"
+  },
+  {
+    "slug": "MYWL",
+    "name": "MYWL"
+  },
+  {
+    "slug": "Nacex",
+    "name": "Nacex"
+  },
+  {
+    "slug": "Namibia Post / nampost",
+    "name": "Namibia Post / nampost"
+  },
+  {
+    "slug": "Naqel Express",
+    "name": "Naqel Express"
+  },
+  {
+    "slug": "National Logistics Services",
+    "name": "National Logistics Services"
+  },
+  {
+    "slug": "Nationex",
+    "name": "Nationex"
+  },
+  {
+    "slug": "NationWide Express",
+    "name": "NationWide Express"
+  },
+  {
+    "slug": "NBT",
+    "name": "NBT"
+  },
+  {
+    "slug": "Needtail Logistics",
+    "name": "Needtail Logistics"
+  },
+  {
+    "slug": "Neighbour Express",
+    "name": "Neighbour Express"
+  },
+  {
+    "slug": "Neos Air Cargo",
+    "name": "Neos Air Cargo"
+  },
+  {
+    "slug": "Nepal Post",
+    "name": "Nepal Post"
+  },
+  {
+    "slug": "Network Aviation Group",
+    "name": "Network Aviation Group"
+  },
+  {
+    "slug": "New Caledonai Post",
+    "name": "New Caledonai Post"
+  },
+  {
+    "slug": "New Zealand Post",
+    "name": "New Zealand Post"
+  },
+  {
+    "slug": "Newgistics",
+    "name": "Newgistics"
+  },
+  {
+    "slug": "Nexive",
+    "name": "Nexive"
+  },
+  {
+    "slug": "NextSmartShip",
+    "name": "NextSmartShip"
+  },
+  {
+    "slug": "Nigerian Post / NI Post",
+    "name": "Nigerian Post / NI Post"
+  },
+  {
+    "slug": "Nightline",
+    "name": "Nightline"
+  },
+  {
+    "slug": "Nike",
+    "name": "Nike"
+  },
+  {
+    "slug": "NIM Express",
+    "name": "NIM Express"
+  },
+  {
+    "slug": "Ninja Van",
+    "name": "Ninja Van"
+  },
+  {
+    "slug": "Ninja Van Indonesia",
+    "name": "Ninja Van Indonesia"
+  },
+  {
+    "slug": "Ninja Van Philippines",
+    "name": "Ninja Van Philippines"
+  },
+  {
+    "slug": "Ninja Van Singapore",
+    "name": "Ninja Van Singapore"
+  },
+  {
+    "slug": "Ninja Van Thailand",
+    "name": "Ninja Van Thailand"
+  },
+  {
+    "slug": "Ninja Van Vietnam",
+    "name": "Ninja Van Vietnam"
+  },
+  {
+    "slug": "Nippon Cargo Airlines",
+    "name": "Nippon Cargo Airlines"
+  },
+  {
+    "slug": "Nippon Express",
+    "name": "Nippon Express"
+  },
+  {
+    "slug": "Norlines",
+    "name": "Norlines"
+  },
+  {
+    "slug": "Norse Cargo",
+    "name": "Norse Cargo"
+  },
+  {
+    "slug": "Norsk Global",
+    "name": "Norsk Global"
+  },
+  {
+    "slug": "Northline",
+    "name": "Northline"
+  },
+  {
+    "slug": "Norwegian Cargo",
+    "name": "Norwegian Cargo"
+  },
+  {
+    "slug": "Nova Post",
+    "name": "Nova Post"
+  },
+  {
+    "slug": "NovaPosta",
+    "name": "NovaPosta"
+  },
+  {
+    "slug": "NovaPosta Global",
+    "name": "NovaPosta Global"
+  },
+  {
+    "slug": "NOX NightTimeExpress",
+    "name": "NOX NightTimeExpress"
+  },
+  {
+    "slug": "NUO",
+    "name": "NUO"
+  },
+  {
+    "slug": "NZ Couriers",
+    "name": "NZ Couriers"
+  },
+  {
+    "slug": "NZ Couriers Customer Label",
+    "name": "NZ Couriers Customer Label"
+  },
+  {
+    "slug": "Obibox / Xpedigo",
+    "name": "Obibox / Xpedigo"
+  },
+  {
+    "slug": "OCA Argentina",
+    "name": "OCA Argentina"
+  },
+  {
+    "slug": "OCS Middle East",
+    "name": "OCS Middle East"
+  },
+  {
+    "slug": "OCS Worldwide",
+    "name": "OCS Worldwide"
+  },
+  {
+    "slug": "Office Depot",
+    "name": "Office Depot"
+  },
+  {
+    "slug": "OkayParcel",
+    "name": "OkayParcel"
+  },
+  {
+    "slug": "Old Dominion Freight Line",
+    "name": "Old Dominion Freight Line"
+  },
+  {
+    "slug": "Oman Air Cargo",
+    "name": "Oman Air Cargo"
+  },
+  {
+    "slug": "Oman Post",
+    "name": "Oman Post"
+  },
+  {
+    "slug": "Omgo",
+    "name": "Omgo"
+  },
+  {
+    "slug": "Omni Parcel",
+    "name": "Omni Parcel"
+  },
+  {
+    "slug": "Omniva Estonia",
+    "name": "Omniva Estonia"
+  },
+  {
+    "slug": "ONE Ocean Network Express",
+    "name": "ONE Ocean Network Express"
+  },
+  {
+    "slug": "One World Courier",
+    "name": "One World Courier"
+  },
+  {
+    "slug": "One World Express",
+    "name": "One World Express"
+  },
+  {
+    "slug": "Onex Armenia",
+    "name": "Onex Armenia"
+  },
+  {
+    "slug": "Onex Georgia",
+    "name": "Onex Georgia"
+  },
+  {
+    "slug": "OnTrac",
+    "name": "OnTrac"
+  },
+  {
+    "slug": "OOCL Orient Overseas International",
+    "name": "OOCL Orient Overseas International"
+  },
+  {
+    "slug": "Optima Overnight",
+    "name": "Optima Overnight"
+  },
+  {
+    "slug": "OrangeDS",
+    "name": "OrangeDS"
+  },
+  {
+    "slug": "Orian Express",
+    "name": "Orian Express"
+  },
+  {
+    "slug": "Orlen Paczka (Paczka w RUCHu)",
+    "name": "Orlen Paczka (Paczka w RUCHu)"
+  },
+  {
+    "slug": "OSM Worldwide",
+    "name": "OSM Worldwide"
+  },
+  {
+    "slug": "OTX Logistics",
+    "name": "OTX Logistics"
+  },
+  {
+    "slug": "Overseas Croatia",
+    "name": "Overseas Croatia"
+  },
+  {
+    "slug": "OYX",
+    "name": "OYX"
+  },
+  {
+    "slug": "OZON Rocket Доставка",
+    "name": "OZON Rocket Доставка"
+  },
+  {
+    "slug": "Paack",
+    "name": "Paack"
+  },
+  {
+    "slug": "Paccofacile",
+    "name": "Paccofacile"
+  },
+  {
+    "slug": "Pack Send",
+    "name": "Pack Send"
+  },
+  {
+    "slug": "Packeta",
+    "name": "Packeta"
+  },
+  {
+    "slug": "Packlink",
+    "name": "Packlink"
+  },
+  {
+    "slug": "Packs.nl",
+    "name": "Packs.nl"
+  },
+  {
+    "slug": "Pactic",
+    "name": "Pactic"
+  },
+  {
+    "slug": "Pago",
+    "name": "Pago"
+  },
+  {
+    "slug": "Paisley Freight",
+    "name": "Paisley Freight"
+  },
+  {
+    "slug": "Pakajo",
+    "name": "Pakajo"
+  },
+  {
+    "slug": "Pakistan Post",
+    "name": "Pakistan Post"
+  },
+  {
+    "slug": "PakTrac",
+    "name": "PakTrac"
+  },
+  {
+    "slug": "PAL Express",
+    "name": "PAL Express"
+  },
+  {
+    "slug": "Palletways",
+    "name": "Palletways"
+  },
+  {
+    "slug": "Pallex",
+    "name": "Pallex"
+  },
+  {
+    "slug": "PallPost",
+    "name": "PallPost"
+  },
+  {
+    "slug": "Pandao Logistics",
+    "name": "Pandao Logistics"
+  },
+  {
+    "slug": "Pandion",
+    "name": "Pandion"
+  },
+  {
+    "slug": "Pandu Logistics",
+    "name": "Pandu Logistics"
+  },
+  {
+    "slug": "Panther Premium Logistics",
+    "name": "Panther Premium Logistics"
+  },
+  {
+    "slug": "Paquetexpress",
+    "name": "Paquetexpress"
+  },
+  {
+    "slug": "Parcel Monkey",
+    "name": "Parcel Monkey"
+  },
+  {
+    "slug": "Parcel.nl",
+    "name": "Parcel.nl"
+  },
+  {
+    "slug": "Parcel.One",
+    "name": "Parcel.One"
+  },
+  {
+    "slug": "Parcel2Go",
+    "name": "Parcel2Go"
+  },
+  {
+    "slug": "Parcel4U Xlogics",
+    "name": "Parcel4U Xlogics"
+  },
+  {
+    "slug": "Parcelabc",
+    "name": "Parcelabc"
+  },
+  {
+    "slug": "Parcelforce",
+    "name": "Parcelforce"
+  },
+  {
+    "slug": "ParcelHub",
+    "name": "ParcelHub"
+  },
+  {
+    "slug": "Parceljet",
+    "name": "Parceljet"
+  },
+  {
+    "slug": "ParcelNinja",
+    "name": "ParcelNinja"
+  },
+  {
+    "slug": "ParcelRight",
+    "name": "ParcelRight"
+  },
+  {
+    "slug": "Parcll",
+    "name": "Parcll"
+  },
+  {
+    "slug": "Pargo",
+    "name": "Pargo"
+  },
+  {
+    "slug": "Park and Parcel",
+    "name": "Park and Parcel"
+  },
+  {
+    "slug": "parxl",
+    "name": "parxl"
+  },
+  {
+    "slug": "PasarEX",
+    "name": "PasarEX"
+  },
+  {
+    "slug": "Passport Shipping",
+    "name": "Passport Shipping"
+  },
+  {
+    "slug": "PassTheParcel",
+    "name": "PassTheParcel"
+  },
+  {
+    "slug": "Payo",
+    "name": "Payo"
+  },
+  {
+    "slug": "PBT Couriers",
+    "name": "PBT Couriers"
+  },
+  {
+    "slug": "PDN Express",
+    "name": "PDN Express"
+  },
+  {
+    "slug": "Peddler Express",
+    "name": "Peddler Express"
+  },
+  {
+    "slug": "Pegasus Cargo",
+    "name": "Pegasus Cargo"
+  },
+  {
+    "slug": "Pekaes",
+    "name": "Pekaes"
+  },
+  {
+    "slug": "Peru Post",
+    "name": "Peru Post"
+  },
+  {
+    "slug": "PFC",
+    "name": "PFC"
+  },
+  {
+    "slug": "PFLogistics",
+    "name": "PFLogistics"
+  },
+  {
+    "slug": "Pgeon",
+    "name": "Pgeon"
+  },
+  {
+    "slug": "Philippine Airlines Cargo",
+    "name": "Philippine Airlines Cargo"
+  },
+  {
+    "slug": "Philippines Post",
+    "name": "Philippines Post"
+  },
+  {
+    "slug": "Pickpoint",
+    "name": "Pickpoint"
+  },
+  {
+    "slug": "Pickupp Hong Kong",
+    "name": "Pickupp Hong Kong"
+  },
+  {
+    "slug": "Pickupp Malaysia",
+    "name": "Pickupp Malaysia"
+  },
+  {
+    "slug": "Pickupp Singapore",
+    "name": "Pickupp Singapore"
+  },
+  {
+    "slug": "Pigeon Express",
+    "name": "Pigeon Express"
+  },
+  {
+    "slug": "Piggy Express",
+    "name": "Piggy Express"
+  },
+  {
+    "slug": "PiggyShip",
+    "name": "PiggyShip"
+  },
+  {
+    "slug": "Pilot Freight Services",
+    "name": "Pilot Freight Services"
+  },
+  {
+    "slug": "Pingdaguoji",
+    "name": "Pingdaguoji"
+  },
+  {
+    "slug": "Pitney Bowes",
+    "name": "Pitney Bowes"
+  },
+  {
+    "slug": "PITTOHIO",
+    "name": "PITTOHIO"
+  },
+  {
+    "slug": "Plan\\xe8te Courrier",
+    "name": "Plan\\xe8te Courrier"
+  },
+  {
+    "slug": "Planzer",
+    "name": "Planzer"
+  },
+  {
+    "slug": "Plycon Transportation Group",
+    "name": "Plycon Transportation Group"
+  },
+  {
+    "slug": "Pocztex",
+    "name": "Pocztex"
+  },
+  {
+    "slug": "Poland Post",
+    "name": "Poland Post"
+  },
+  {
+    "slug": "Polar Air Cargo",
+    "name": "Polar Air Cargo"
+  },
+  {
+    "slug": "Polar Express",
+    "name": "Polar Express"
+  },
+  {
+    "slug": "Polaris Transport",
+    "name": "Polaris Transport"
+  },
+  {
+    "slug": "Polonez Parcel Service",
+    "name": "Polonez Parcel Service"
+  },
+  {
+    "slug": "Pony Express",
+    "name": "Pony Express"
+  },
+  {
+    "slug": "Portugal Post - Portugal CTT",
+    "name": "Portugal Post - Portugal CTT"
+  },
+  {
+    "slug": "POS Indonesia",
+    "name": "POS Indonesia"
+  },
+  {
+    "slug": "Pos Laju",
+    "name": "Pos Laju"
+  },
+  {
+    "slug": "Post Haste",
+    "name": "Post Haste"
+  },
+  {
+    "slug": "Post One",
+    "name": "Post One"
+  },
+  {
+    "slug": "Post Plus",
+    "name": "Post Plus"
+  },
+  {
+    "slug": "Post11",
+    "name": "Post11"
+  },
+  {
+    "slug": "Posta Faroe Islands",
+    "name": "Posta Faroe Islands"
+  },
+  {
+    "slug": "Posta Plus",
+    "name": "Posta Plus"
+  },
+  {
+    "slug": "Posta Uganda",
+    "name": "Posta Uganda"
+  },
+  {
+    "slug": "PostCo",
+    "name": "PostCo"
+  },
+  {
+    "slug": "Poste San Marino",
+    "name": "Poste San Marino"
+  },
+  {
+    "slug": "Poste Srpske",
+    "name": "Poste Srpske"
+  },
+  {
+    "slug": "Posten Norge - Norway Post",
+    "name": "Posten Norge - Norway Post"
+  },
+  {
+    "slug": "PostEx",
+    "name": "PostEx"
+  },
+  {
+    "slug": "PostMedia Parcel Services",
+    "name": "PostMedia Parcel Services"
+  },
+  {
+    "slug": "Postnet South Africa",
+    "name": "Postnet South Africa"
+  },
+  {
+    "slug": "PostNL",
+    "name": "PostNL"
+  },
+  {
+    "slug": "PostNL - Netherlands Post",
+    "name": "PostNL - Netherlands Post"
+  },
+  {
+    "slug": "PostNord",
+    "name": "PostNord"
+  },
+  {
+    "slug": "PPL",
+    "name": "PPL"
+  },
+  {
+    "slug": "PPX Track",
+    "name": "PPX Track"
+  },
+  {
+    "slug": "Pretty Little Thing",
+    "name": "Pretty Little Thing"
+  },
+  {
+    "slug": "PRO Carrier",
+    "name": "PRO Carrier"
+  },
+  {
+    "slug": "Professional Couriers",
+    "name": "Professional Couriers"
+  },
+  {
+    "slug": "PSK Logistics",
+    "name": "PSK Logistics"
+  },
+  {
+    "slug": "PTS Express",
+    "name": "PTS Express"
+  },
+  {
+    "slug": "Punto Pack",
+    "name": "Punto Pack"
+  },
+  {
+    "slug": "Purolator",
+    "name": "Purolator"
+  },
+  {
+    "slug": "Purolator International",
+    "name": "Purolator International"
+  },
+  {
+    "slug": "Qantas Airways Cargo",
+    "name": "Qantas Airways Cargo"
+  },
+  {
+    "slug": "Qatar Airways Cargo",
+    "name": "Qatar Airways Cargo"
+  },
+  {
+    "slug": "Qatar Post",
+    "name": "Qatar Post"
+  },
+  {
+    "slug": "QC56",
+    "name": "QC56"
+  },
+  {
+    "slug": "Qexpress",
+    "name": "Qexpress"
+  },
+  {
+    "slug": "Qi Lin Guo ji",
+    "name": "Qi Lin Guo ji"
+  },
+  {
+    "slug": "Qianyu",
+    "name": "Qianyu"
+  },
+  {
+    "slug": "Qibing",
+    "name": "Qibing"
+  },
+  {
+    "slug": "Qingbei",
+    "name": "Qingbei"
+  },
+  {
+    "slug": "QLN",
+    "name": "QLN"
+  },
+  {
+    "slug": "QLWL",
+    "name": "QLWL"
+  },
+  {
+    "slug": "QQWY",
+    "name": "QQWY"
+  },
+  {
+    "slug": "Qtrack",
+    "name": "Qtrack"
+  },
+  {
+    "slug": "Quality Post",
+    "name": "Quality Post"
+  },
+  {
+    "slug": "Quantium Solutions",
+    "name": "Quantium Solutions"
+  },
+  {
+    "slug": "Quick Fish",
+    "name": "Quick Fish"
+  },
+  {
+    "slug": "Quickpac",
+    "name": "Quickpac"
+  },
+  {
+    "slug": "QuickWay",
+    "name": "QuickWay"
+  },
+  {
+    "slug": "QuiPoste",
+    "name": "QuiPoste"
+  },
+  {
+    "slug": "Qwintry Logistics",
+    "name": "Qwintry Logistics"
+  },
+  {
+    "slug": "Qxpress",
+    "name": "Qxpress"
+  },
+  {
+    "slug": "QYEXP",
+    "name": "QYEXP"
+  },
+  {
+    "slug": "QYSC",
+    "name": "QYSC"
+  },
+  {
+    "slug": "Qyun",
+    "name": "Qyun"
+  },
+  {
+    "slug": "Rabee",
+    "name": "Rabee"
+  },
+  {
+    "slug": "Raben",
+    "name": "Raben"
+  },
+  {
+    "slug": "RAF Philippines",
+    "name": "RAF Philippines"
+  },
+  {
+    "slug": "Rapido",
+    "name": "Rapido"
+  },
+  {
+    "slug": "RATEK",
+    "name": "RATEK"
+  },
+  {
+    "slug": "Raven Force Couriers",
+    "name": "Raven Force Couriers"
+  },
+  {
+    "slug": "ReBOUND - IntelligentReturns",
+    "name": "ReBOUND - IntelligentReturns"
+  },
+  {
+    "slug": "Redbox",
+    "name": "Redbox"
+  },
+  {
+    "slug": "RedC",
+    "name": "RedC"
+  },
+  {
+    "slug": "Reddaway",
+    "name": "Reddaway"
+  },
+  {
+    "slug": "Redpack Mexico",
+    "name": "Redpack Mexico"
+  },
+  {
+    "slug": "Redur Spain",
+    "name": "Redur Spain"
+  },
+  {
+    "slug": "Redur Spain Reference",
+    "name": "Redur Spain Reference"
+  },
+  {
+    "slug": "Redur Tracking",
+    "name": "Redur Tracking"
+  },
+  {
+    "slug": "Relais Colis",
+    "name": "Relais Colis"
+  },
+  {
+    "slug": "Relay",
+    "name": "Relay"
+  },
+  {
+    "slug": "Reliable Logistics",
+    "name": "Reliable Logistics"
+  },
+  {
+    "slug": "ReMax",
+    "name": "ReMax"
+  },
+  {
+    "slug": "Returnmates",
+    "name": "Returnmates"
+  },
+  {
+    "slug": "Revco",
+    "name": "Revco"
+  },
+  {
+    "slug": "RFL",
+    "name": "RFL"
+  },
+  {
+    "slug": "Rhenus Italia",
+    "name": "Rhenus Italia"
+  },
+  {
+    "slug": "Rhenus South Africa",
+    "name": "Rhenus South Africa"
+  },
+  {
+    "slug": "Rhenus UK Home Delivery",
+    "name": "Rhenus UK Home Delivery"
+  },
+  {
+    "slug": "Rincos",
+    "name": "Rincos"
+  },
+  {
+    "slug": "RL Carriers",
+    "name": "RL Carriers"
+  },
+  {
+    "slug": "Roadbull Logistics",
+    "name": "Roadbull Logistics"
+  },
+  {
+    "slug": "Roadrunner Freight",
+    "name": "Roadrunner Freight"
+  },
+  {
+    "slug": "Rock Solid Internet Shipping",
+    "name": "Rock Solid Internet Shipping"
+  },
+  {
+    "slug": "Romania Post",
+    "name": "Romania Post"
+  },
+  {
+    "slug": "Route",
+    "name": "Route"
+  },
+  {
+    "slug": "Royal Air Maroc Cargo",
+    "name": "Royal Air Maroc Cargo"
+  },
+  {
+    "slug": "Royal Brunei Airlines Cargo",
+    "name": "Royal Brunei Airlines Cargo"
+  },
+  {
+    "slug": "Royal Jordanian Cargo",
+    "name": "Royal Jordanian Cargo"
+  },
+  {
+    "slug": "Royal Mail",
+    "name": "Royal Mail"
+  },
+  {
+    "slug": "Royal Shipments",
+    "name": "Royal Shipments"
+  },
+  {
+    "slug": "Rozetka Delivery",
+    "name": "Rozetka Delivery"
+  },
+  {
+    "slug": "RPX Indonesia",
+    "name": "RPX Indonesia"
+  },
+  {
+    "slug": "RPX Online",
+    "name": "RPX Online"
+  },
+  {
+    "slug": "RPX Online Reference",
+    "name": "RPX Online Reference"
+  },
+  {
+    "slug": "RSA Global",
+    "name": "RSA Global"
+  },
+  {
+    "slug": "Runner Express",
+    "name": "Runner Express"
+  },
+  {
+    "slug": "Ruston",
+    "name": "Ruston"
+  },
+  {
+    "slug": "RXO Order Number and Retailer Number tracking",
+    "name": "RXO Order Number and Retailer Number tracking"
+  },
+  {
+    "slug": "S7 Cargo",
+    "name": "S7 Cargo"
+  },
+  {
+    "slug": "Saee",
+    "name": "Saee"
+  },
+  {
+    "slug": "Safeway Express Cargo",
+    "name": "Safeway Express Cargo"
+  },
+  {
+    "slug": "Sagawa Global",
+    "name": "Sagawa Global"
+  },
+  {
+    "slug": "Sagawa Japan",
+    "name": "Sagawa Japan"
+  },
+  {
+    "slug": "Sagawa Reference",
+    "name": "Sagawa Reference"
+  },
+  {
+    "slug": "Saia LTL Freight",
+    "name": "Saia LTL Freight"
+  },
+  {
+    "slug": "Sailpost",
+    "name": "Sailpost"
+  },
+  {
+    "slug": "Sameday",
+    "name": "Sameday"
+  },
+  {
+    "slug": "Sameday Bulgaria",
+    "name": "Sameday Bulgaria"
+  },
+  {
+    "slug": "Sameday Hungary",
+    "name": "Sameday Hungary"
+  },
+  {
+    "slug": "SAP Express",
+    "name": "SAP Express"
+  },
+  {
+    "slug": "SAS Scandinavian Airlines Cargo",
+    "name": "SAS Scandinavian Airlines Cargo"
+  },
+  {
+    "slug": "Saudia Airlines Cargo",
+    "name": "Saudia Airlines Cargo"
+  },
+  {
+    "slug": "SBD",
+    "name": "SBD"
+  },
+  {
+    "slug": "Sber Logistics",
+    "name": "Sber Logistics"
+  },
+  {
+    "slug": "SBY Express",
+    "name": "SBY Express"
+  },
+  {
+    "slug": "SCGJ",
+    "name": "SCGJ"
+  },
+  {
+    "slug": "SCM Paqueteria",
+    "name": "SCM Paqueteria"
+  },
+  {
+    "slug": "Score Japan",
+    "name": "Score Japan"
+  },
+  {
+    "slug": "SDA Express Courier",
+    "name": "SDA Express Courier"
+  },
+  {
+    "slug": "SDH Express",
+    "name": "SDH Express"
+  },
+  {
+    "slug": "SDK Express",
+    "name": "SDK Express"
+  },
+  {
+    "slug": "Seino",
+    "name": "Seino"
+  },
+  {
+    "slug": "SEKO Logistics",
+    "name": "SEKO Logistics"
+  },
+  {
+    "slug": "Seller's Shipping Method",
+    "name": "Seller's Shipping Method"
+  },
+  {
+    "slug": "Sendcloud",
+    "name": "Sendcloud"
+  },
+  {
+    "slug": "Sendex",
+    "name": "Sendex"
+  },
+  {
+    "slug": "Sending",
+    "name": "Sending"
+  },
+  {
+    "slug": "Sendle",
+    "name": "Sendle"
+  },
+  {
+    "slug": "Sendnow.eu",
+    "name": "Sendnow.eu"
+  },
+  {
+    "slug": "Sendx",
+    "name": "Sendx"
+  },
+  {
+    "slug": "Sengi",
+    "name": "Sengi"
+  },
+  {
+    "slug": "Sentral Cargo",
+    "name": "Sentral Cargo"
+  },
+  {
+    "slug": "Senyugg",
+    "name": "Senyugg"
+  },
+  {
+    "slug": "Serbia Post",
+    "name": "Serbia Post"
+  },
+  {
+    "slug": "SEUR",
+    "name": "SEUR"
+  },
+  {
+    "slug": "SF Airlines Cargo",
+    "name": "SF Airlines Cargo"
+  },
+  {
+    "slug": "SF-Express",
+    "name": "SF-Express"
+  },
+  {
+    "slug": "SF-Express International",
+    "name": "SF-Express International"
+  },
+  {
+    "slug": "SFC - SendFromChina",
+    "name": "SFC - SendFromChina"
+  },
+  {
+    "slug": "SFYD Express",
+    "name": "SFYD Express"
+  },
+  {
+    "slug": "SGT Italy",
+    "name": "SGT Italy"
+  },
+  {
+    "slug": "ShadowFax",
+    "name": "ShadowFax"
+  },
+  {
+    "slug": "SHE",
+    "name": "SHE"
+  },
+  {
+    "slug": "Shein US",
+    "name": "Shein US"
+  },
+  {
+    "slug": "Shengyu",
+    "name": "Shengyu"
+  },
+  {
+    "slug": "Shenzhen Lianhang Supply Chain",
+    "name": "Shenzhen Lianhang Supply Chain"
+  },
+  {
+    "slug": "Sheremetyevo Cargo",
+    "name": "Sheremetyevo Cargo"
+  },
+  {
+    "slug": "SHGJ",
+    "name": "SHGJ"
+  },
+  {
+    "slug": "Ship Global",
+    "name": "Ship Global"
+  },
+  {
+    "slug": "Ship It Asia",
+    "name": "Ship It Asia"
+  },
+  {
+    "slug": "Shipa",
+    "name": "Shipa"
+  },
+  {
+    "slug": "ShipBob",
+    "name": "ShipBob"
+  },
+  {
+    "slug": "ShipEntegra",
+    "name": "ShipEntegra"
+  },
+  {
+    "slug": "ShipGlobal India",
+    "name": "ShipGlobal India"
+  },
+  {
+    "slug": "Shipnergy",
+    "name": "Shipnergy"
+  },
+  {
+    "slug": "Shippie",
+    "name": "Shippie"
+  },
+  {
+    "slug": "Shippit",
+    "name": "Shippit"
+  },
+  {
+    "slug": "Shiprocket",
+    "name": "Shiprocket"
+  },
+  {
+    "slug": "Shipter",
+    "name": "Shipter"
+  },
+  {
+    "slug": "Shiptor",
+    "name": "Shiptor"
+  },
+  {
+    "slug": "Shopee Express Brazil",
+    "name": "Shopee Express Brazil"
+  },
+  {
+    "slug": "Shopee Express Indonesia",
+    "name": "Shopee Express Indonesia"
+  },
+  {
+    "slug": "Shopee Express Malaysia",
+    "name": "Shopee Express Malaysia"
+  },
+  {
+    "slug": "Shopee Express Philippines",
+    "name": "Shopee Express Philippines"
+  },
+  {
+    "slug": "Shopee Express Singapore",
+    "name": "Shopee Express Singapore"
+  },
+  {
+    "slug": "Shopee Express Taiwan",
+    "name": "Shopee Express Taiwan"
+  },
+  {
+    "slug": "Shopee Express Thailand",
+    "name": "Shopee Express Thailand"
+  },
+  {
+    "slug": "Shopee Express Vietnam",
+    "name": "Shopee Express Vietnam"
+  },
+  {
+    "slug": "ShopLine",
+    "name": "ShopLine"
+  },
+  {
+    "slug": "Shouwu Express",
+    "name": "Shouwu Express"
+  },
+  {
+    "slug": "SHT",
+    "name": "SHT"
+  },
+  {
+    "slug": "Shypmax India",
+    "name": "Shypmax India"
+  },
+  {
+    "slug": "SiCepat Ekspres",
+    "name": "SiCepat Ekspres"
+  },
+  {
+    "slug": "Sichuan Airlines Cargo",
+    "name": "Sichuan Airlines Cargo"
+  },
+  {
+    "slug": "Sihai Inc",
+    "name": "Sihai Inc"
+  },
+  {
+    "slug": "Silk Way Airlines Cargo",
+    "name": "Silk Way Airlines Cargo"
+  },
+  {
+    "slug": "SimpliRoute",
+    "name": "SimpliRoute"
+  },
+  {
+    "slug": "Singapore Airlines Siacargo",
+    "name": "Singapore Airlines Siacargo"
+  },
+  {
+    "slug": "Singapore Logistics",
+    "name": "Singapore Logistics"
+  },
+  {
+    "slug": "Singapore Post",
+    "name": "Singapore Post"
+  },
+  {
+    "slug": "Sino Didi",
+    "name": "Sino Didi"
+  },
+  {
+    "slug": "Sinoair Sinotrans",
+    "name": "Sinoair Sinotrans"
+  },
+  {
+    "slug": "Sinotrans",
+    "name": "Sinotrans"
+  },
+  {
+    "slug": "Skroutz Last Mile",
+    "name": "Skroutz Last Mile"
+  },
+  {
+    "slug": "Sky Postal",
+    "name": "Sky Postal"
+  },
+  {
+    "slug": "SkyEx",
+    "name": "SkyEx"
+  },
+  {
+    "slug": "SkyNet France.",
+    "name": "SkyNet France."
+  },
+  {
+    "slug": "SkyNet Malaysia",
+    "name": "SkyNet Malaysia"
+  },
+  {
+    "slug": "SkyNet Worldwide Express",
+    "name": "SkyNet Worldwide Express"
+  },
+  {
+    "slug": "Skynet Worldwide Express UK",
+    "name": "Skynet Worldwide Express UK"
+  },
+  {
+    "slug": "SkyTeam Cargo",
+    "name": "SkyTeam Cargo"
+  },
+  {
+    "slug": "Slovak Parcel Service",
+    "name": "Slovak Parcel Service"
+  },
+  {
+    "slug": "Slovakia Post",
+    "name": "Slovakia Post"
+  },
+  {
+    "slug": "SLS Express",
+    "name": "SLS Express"
+  },
+  {
+    "slug": "SLX",
+    "name": "SLX"
+  },
+  {
+    "slug": "Smart Post Global",
+    "name": "Smart Post Global"
+  },
+  {
+    "slug": "Smart Send",
+    "name": "Smart Send"
+  },
+  {
+    "slug": "Smartcat",
+    "name": "Smartcat"
+  },
+  {
+    "slug": "SMSA Express",
+    "name": "SMSA Express"
+  },
+  {
+    "slug": "Smurf's Express",
+    "name": "Smurf's Express"
+  },
+  {
+    "slug": "SMZ",
+    "name": "SMZ"
+  },
+  {
+    "slug": "SNX",
+    "name": "SNX"
+  },
+  {
+    "slug": "Sonic",
+    "name": "Sonic"
+  },
+  {
+    "slug": "South Africa Post Office",
+    "name": "South Africa Post Office"
+  },
+  {
+    "slug": "South African Airways Cargo",
+    "name": "South African Airways Cargo"
+  },
+  {
+    "slug": "South Korea Customs Unipass",
+    "name": "South Korea Customs Unipass"
+  },
+  {
+    "slug": "South Korea Post",
+    "name": "South Korea Post"
+  },
+  {
+    "slug": "Southeastern Freight Lines",
+    "name": "Southeastern Freight Lines"
+  },
+  {
+    "slug": "Southern China Express",
+    "name": "Southern China Express"
+  },
+  {
+    "slug": "Southwest Cargo",
+    "name": "Southwest Cargo"
+  },
+  {
+    "slug": "Space Express",
+    "name": "Space Express"
+  },
+  {
+    "slug": "SpaceShip",
+    "name": "SpaceShip"
+  },
+  {
+    "slug": "Spain Post",
+    "name": "Spain Post"
+  },
+  {
+    "slug": "SPC Worldwide Express",
+    "name": "SPC Worldwide Express"
+  },
+  {
+    "slug": "Spediamo",
+    "name": "Spediamo"
+  },
+  {
+    "slug": "Spedire Comodo",
+    "name": "Spedire Comodo"
+  },
+  {
+    "slug": "Spedisci Online",
+    "name": "Spedisci Online"
+  },
+  {
+    "slug": "Speedaf",
+    "name": "Speedaf"
+  },
+  {
+    "slug": "SpeeDee Delivery",
+    "name": "SpeeDee Delivery"
+  },
+  {
+    "slug": "Speedex",
+    "name": "Speedex"
+  },
+  {
+    "slug": "SpeedPAK",
+    "name": "SpeedPAK"
+  },
+  {
+    "slug": "Speedpost - Singapore Post",
+    "name": "Speedpost - Singapore Post"
+  },
+  {
+    "slug": "SpeedX",
+    "name": "SpeedX"
+  },
+  {
+    "slug": "Speedy",
+    "name": "Speedy"
+  },
+  {
+    "slug": "SPL",
+    "name": "SPL"
+  },
+  {
+    "slug": "Spring Global Mail",
+    "name": "Spring Global Mail"
+  },
+  {
+    "slug": "Sprint Star",
+    "name": "Sprint Star"
+  },
+  {
+    "slug": "Sprinter / PickPackPoint",
+    "name": "Sprinter / PickPackPoint"
+  },
+  {
+    "slug": "SprintPack",
+    "name": "SprintPack"
+  },
+  {
+    "slug": "SPSR",
+    "name": "SPSR"
+  },
+  {
+    "slug": "SriLankan Cargo - 603",
+    "name": "SriLankan Cargo - 603"
+  },
+  {
+    "slug": "Stallion Express",
+    "name": "Stallion Express"
+  },
+  {
+    "slug": "Stamps",
+    "name": "Stamps"
+  },
+  {
+    "slug": "Star Express",
+    "name": "Star Express"
+  },
+  {
+    "slug": "Star Wish",
+    "name": "Star Wish"
+  },
+  {
+    "slug": "Starken",
+    "name": "Starken"
+  },
+  {
+    "slug": "StarLinks",
+    "name": "StarLinks"
+  },
+  {
+    "slug": "Stat Overnight",
+    "name": "Stat Overnight"
+  },
+  {
+    "slug": "Stone3PL",
+    "name": "Stone3PL"
+  },
+  {
+    "slug": "Straightship",
+    "name": "Straightship"
+  },
+  {
+    "slug": "Suhangyi",
+    "name": "Suhangyi"
+  },
+  {
+    "slug": "Suhu",
+    "name": "Suhu"
+  },
+  {
+    "slug": "Summit Speed",
+    "name": "Summit Speed"
+  },
+  {
+    "slug": "Sunnyway",
+    "name": "Sunnyway"
+  },
+  {
+    "slug": "SunYou - Sytrack",
+    "name": "SunYou - Sytrack"
+  },
+  {
+    "slug": "Supai",
+    "name": "Supai"
+  },
+  {
+    "slug": "Suparna Airlines Cargo",
+    "name": "Suparna Airlines Cargo"
+  },
+  {
+    "slug": "Super Parcel",
+    "name": "Super Parcel"
+  },
+  {
+    "slug": "Super Parcel Track",
+    "name": "Super Parcel Track"
+  },
+  {
+    "slug": "Superbuy",
+    "name": "Superbuy"
+  },
+  {
+    "slug": "SW Express",
+    "name": "SW Express"
+  },
+  {
+    "slug": "Sway",
+    "name": "Sway"
+  },
+  {
+    "slug": "Swiat Przesylek (KAAB)",
+    "name": "Swiat Przesylek (KAAB)"
+  },
+  {
+    "slug": "Swift Logistics",
+    "name": "Swift Logistics"
+  },
+  {
+    "slug": "SwiftPost",
+    "name": "SwiftPost"
+  },
+  {
+    "slug": "SwiftX",
+    "name": "SwiftX"
+  },
+  {
+    "slug": "Swiss Post",
+    "name": "Swiss Post"
+  },
+  {
+    "slug": "Swiss World Cargo",
+    "name": "Swiss World Cargo"
+  },
+  {
+    "slug": "Swyft Logistics",
+    "name": "Swyft Logistics"
+  },
+  {
+    "slug": "SYD",
+    "name": "SYD"
+  },
+  {
+    "slug": "SYGJ",
+    "name": "SYGJ"
+  },
+  {
+    "slug": "Syncreon",
+    "name": "Syncreon"
+  },
+  {
+    "slug": "Szendex",
+    "name": "Szendex"
+  },
+  {
+    "slug": "T-Cat Taiwan",
+    "name": "T-Cat Taiwan"
+  },
+  {
+    "slug": "TA-Q-BIN Malaysia",
+    "name": "TA-Q-BIN Malaysia"
+  },
+  {
+    "slug": "TAAG Angola Airlines Cargo",
+    "name": "TAAG Angola Airlines Cargo"
+  },
+  {
+    "slug": "Taipei Forever",
+    "name": "Taipei Forever"
+  },
+  {
+    "slug": "Taiwan Post - Chunghwa Post",
+    "name": "Taiwan Post - Chunghwa Post"
+  },
+  {
+    "slug": "Tamdis",
+    "name": "Tamdis"
+  },
+  {
+    "slug": "Tanais",
+    "name": "Tanais"
+  },
+  {
+    "slug": "Tanzania Post",
+    "name": "Tanzania Post"
+  },
+  {
+    "slug": "TAP Air Portugal",
+    "name": "TAP Air Portugal"
+  },
+  {
+    "slug": "TAS Courier",
+    "name": "TAS Courier"
+  },
+  {
+    "slug": "Taxydema",
+    "name": "Taxydema"
+  },
+  {
+    "slug": "TCS Express",
+    "name": "TCS Express"
+  },
+  {
+    "slug": "TD Express (Topdser)",
+    "name": "TD Express (Topdser)"
+  },
+  {
+    "slug": "TD Truck",
+    "name": "TD Truck"
+  },
+  {
+    "slug": "TDE",
+    "name": "TDE"
+  },
+  {
+    "slug": "TEA Post",
+    "name": "TEA Post"
+  },
+  {
+    "slug": "Team Global Express",
+    "name": "Team Global Express"
+  },
+  {
+    "slug": "Team Global Express NZ",
+    "name": "Team Global Express NZ"
+  },
+  {
+    "slug": "Team Worldwide",
+    "name": "Team Worldwide"
+  },
+  {
+    "slug": "Techlink",
+    "name": "Techlink"
+  },
+  {
+    "slug": "Teleport",
+    "name": "Teleport"
+  },
+  {
+    "slug": "TFM Express",
+    "name": "TFM Express"
+  },
+  {
+    "slug": "TForce Final Mile",
+    "name": "TForce Final Mile"
+  },
+  {
+    "slug": "TForce Solutions",
+    "name": "TForce Solutions"
+  },
+  {
+    "slug": "TFS",
+    "name": "TFS"
+  },
+  {
+    "slug": "TH",
+    "name": "TH"
+  },
+  {
+    "slug": "Thai Airways Cargo",
+    "name": "Thai Airways Cargo"
+  },
+  {
+    "slug": "Thailand Post",
+    "name": "Thailand Post"
+  },
+  {
+    "slug": "ThaiParcels",
+    "name": "ThaiParcels"
+  },
+  {
+    "slug": "The Courier Guy",
+    "name": "The Courier Guy"
+  },
+  {
+    "slug": "The Delivery Group",
+    "name": "The Delivery Group"
+  },
+  {
+    "slug": "The Lorry",
+    "name": "The Lorry"
+  },
+  {
+    "slug": "TIG Freight",
+    "name": "TIG Freight"
+  },
+  {
+    "slug": "TIKI",
+    "name": "TIKI"
+  },
+  {
+    "slug": "Tinzung",
+    "name": "Tinzung"
+  },
+  {
+    "slug": "TIPSA",
+    "name": "TIPSA"
+  },
+  {
+    "slug": "TMM-express",
+    "name": "TMM-express"
+  },
+  {
+    "slug": "TNT",
+    "name": "TNT"
+  },
+  {
+    "slug": "TNT Australia",
+    "name": "TNT Australia"
+  },
+  {
+    "slug": "TNT France",
+    "name": "TNT France"
+  },
+  {
+    "slug": "TNT Italy",
+    "name": "TNT Italy"
+  },
+  {
+    "slug": "TNT UK",
+    "name": "TNT UK"
+  },
+  {
+    "slug": "Tocinda",
+    "name": "Tocinda"
+  },
+  {
+    "slug": "Tokopedia Kurir Rekomendasi",
+    "name": "Tokopedia Kurir Rekomendasi"
+  },
+  {
+    "slug": "Toll Group",
+    "name": "Toll Group"
+  },
+  {
+    "slug": "Toll IPEC",
+    "name": "Toll IPEC"
+  },
+  {
+    "slug": "Toll Priority",
+    "name": "Toll Priority"
+  },
+  {
+    "slug": "Tonda Global",
+    "name": "Tonda Global"
+  },
+  {
+    "slug": "Tongy Hang",
+    "name": "Tongy Hang"
+  },
+  {
+    "slug": "Too Express",
+    "name": "Too Express"
+  },
+  {
+    "slug": "Top Logistics",
+    "name": "Top Logistics"
+  },
+  {
+    "slug": "Topest",
+    "name": "Topest"
+  },
+  {
+    "slug": "TopEx",
+    "name": "TopEx"
+  },
+  {
+    "slug": "TopTrans.cz",
+    "name": "TopTrans.cz"
+  },
+  {
+    "slug": "TopYou",
+    "name": "TopYou"
+  },
+  {
+    "slug": "toYou by ASDA",
+    "name": "toYou by ASDA"
+  },
+  {
+    "slug": "Trackmail",
+    "name": "Trackmail"
+  },
+  {
+    "slug": "TrackMyMail",
+    "name": "TrackMyMail"
+  },
+  {
+    "slug": "Tracknator",
+    "name": "Tracknator"
+  },
+  {
+    "slug": "TrackYourParcel",
+    "name": "TrackYourParcel"
+  },
+  {
+    "slug": "TracXLogis",
+    "name": "TracXLogis"
+  },
+  {
+    "slug": "Trans Ontario",
+    "name": "Trans Ontario"
+  },
+  {
+    "slug": "Trans-o-Flex",
+    "name": "Trans-o-Flex"
+  },
+  {
+    "slug": "Transglobal Express UK",
+    "name": "Transglobal Express UK"
+  },
+  {
+    "slug": "Transmission",
+    "name": "Transmission"
+  },
+  {
+    "slug": "TransNatur",
+    "name": "TransNatur"
+  },
+  {
+    "slug": "Treggo Mexico",
+    "name": "Treggo Mexico"
+  },
+  {
+    "slug": "Trunkrs",
+    "name": "Trunkrs"
+  },
+  {
+    "slug": "TSB",
+    "name": "TSB"
+  },
+  {
+    "slug": "TUI Fly Belgium Cargo",
+    "name": "TUI Fly Belgium Cargo"
+  },
+  {
+    "slug": "Tunisia Post",
+    "name": "Tunisia Post"
+  },
+  {
+    "slug": "Tuodatong",
+    "name": "Tuodatong"
+  },
+  {
+    "slug": "Turkey Post",
+    "name": "Turkey Post"
+  },
+  {
+    "slug": "Turkish Airlines Cargo",
+    "name": "Turkish Airlines Cargo"
+  },
+  {
+    "slug": "Tusk Logistics",
+    "name": "Tusk Logistics"
+  },
+  {
+    "slug": "Tusou",
+    "name": "Tusou"
+  },
+  {
+    "slug": "Tuvalu Post",
+    "name": "Tuvalu Post"
+  },
+  {
+    "slug": "TWB",
+    "name": "TWB"
+  },
+  {
+    "slug": "TYP",
+    "name": "TYP"
+  },
+  {
+    "slug": "TZT",
+    "name": "TZT"
+  },
+  {
+    "slug": "Ubaldi",
+    "name": "Ubaldi"
+  },
+  {
+    "slug": "UBI Logistics Australia",
+    "name": "UBI Logistics Australia"
+  },
+  {
+    "slug": "UBI Smart Parcel",
+    "name": "UBI Smart Parcel"
+  },
+  {
+    "slug": "Udel",
+    "name": "Udel"
+  },
+  {
+    "slug": "UGG",
+    "name": "UGG"
+  },
+  {
+    "slug": "UKP Worldwide",
+    "name": "UKP Worldwide"
+  },
+  {
+    "slug": "Ukraine International Airlines Cargo",
+    "name": "Ukraine International Airlines Cargo"
+  },
+  {
+    "slug": "UkrPoshta",
+    "name": "UkrPoshta"
+  },
+  {
+    "slug": "Unex",
+    "name": "Unex"
+  },
+  {
+    "slug": "UNI Express",
+    "name": "UNI Express"
+  },
+  {
+    "slug": "Unieuro",
+    "name": "Unieuro"
+  },
+  {
+    "slug": "Unisend",
+    "name": "Unisend"
+  },
+  {
+    "slug": "United Airlines Cargo",
+    "name": "United Airlines Cargo"
+  },
+  {
+    "slug": "United Broker",
+    "name": "United Broker"
+  },
+  {
+    "slug": "United Delivery Service",
+    "name": "United Delivery Service"
+  },
+  {
+    "slug": "Universal Postal Union",
+    "name": "Universal Postal Union"
+  },
+  {
+    "slug": "UPOST",
+    "name": "UPOST"
+  },
+  {
+    "slug": "UPS",
+    "name": "UPS"
+  },
+  {
+    "slug": "UPS Air Cargo",
+    "name": "UPS Air Cargo"
+  },
+  {
+    "slug": "UPS Freight",
+    "name": "UPS Freight"
+  },
+  {
+    "slug": "UPS Worldwide Economy",
+    "name": "UPS Worldwide Economy"
+  },
+  {
+    "slug": "Ural Airlines",
+    "name": "Ural Airlines"
+  },
+  {
+    "slug": "Ural Express",
+    "name": "Ural Express"
+  },
+  {
+    "slug": "Urban Outfitters",
+    "name": "Urban Outfitters"
+  },
+  {
+    "slug": "UrbanFox (Courex)",
+    "name": "UrbanFox (Courex)"
+  },
+  {
+    "slug": "Urbano",
+    "name": "Urbano"
+  },
+  {
+    "slug": "Urbify",
+    "name": "Urbify"
+  },
+  {
+    "slug": "Urgent Cargus",
+    "name": "Urgent Cargus"
+  },
+  {
+    "slug": "Urvaam",
+    "name": "Urvaam"
+  },
+  {
+    "slug": "US Mail Service",
+    "name": "US Mail Service"
+  },
+  {
+    "slug": "Usky",
+    "name": "Usky"
+  },
+  {
+    "slug": "USPS",
+    "name": "USPS"
+  },
+  {
+    "slug": "USPS Informed Visibility Envelope",
+    "name": "USPS Informed Visibility Envelope"
+  },
+  {
+    "slug": "UTEC Logistics",
+    "name": "UTEC Logistics"
+  },
+  {
+    "slug": "UVAN",
+    "name": "UVAN"
+  },
+  {
+    "slug": "Uzbekistan Airways Cargo",
+    "name": "Uzbekistan Airways Cargo"
+  },
+  {
+    "slug": "Vasp Expresso",
+    "name": "Vasp Expresso"
+  },
+  {
+    "slug": "Veho",
+    "name": "Veho"
+  },
+  {
+    "slug": "Venipak",
+    "name": "Venipak"
+  },
+  {
+    "slug": "VIA Europe",
+    "name": "VIA Europe"
+  },
+  {
+    "slug": "Vietnam Airlines Cargo",
+    "name": "Vietnam Airlines Cargo"
+  },
+  {
+    "slug": "Vietnam Post",
+    "name": "Vietnam Post"
+  },
+  {
+    "slug": "Vind Mijn Zending",
+    "name": "Vind Mijn Zending"
+  },
+  {
+    "slug": "VintedGO",
+    "name": "VintedGO"
+  },
+  {
+    "slug": "VIR Transport",
+    "name": "VIR Transport"
+  },
+  {
+    "slug": "Virgin Atlantic Cargo",
+    "name": "Virgin Atlantic Cargo"
+  },
+  {
+    "slug": "Viva Xpress",
+    "name": "Viva Xpress"
+  },
+  {
+    "slug": "Vnlin",
+    "name": "Vnlin"
+  },
+  {
+    "slug": "Vova Logistics",
+    "name": "Vova Logistics"
+  },
+  {
+    "slug": "W Express Cargo Philippines",
+    "name": "W Express Cargo Philippines"
+  },
+  {
+    "slug": "Wahana",
+    "name": "Wahana"
+  },
+  {
+    "slug": "WANBExpress",
+    "name": "WANBExpress"
+  },
+  {
+    "slug": "WANHub",
+    "name": "WANHub"
+  },
+  {
+    "slug": "Wanyu",
+    "name": "Wanyu"
+  },
+  {
+    "slug": "WCZ",
+    "name": "WCZ"
+  },
+  {
+    "slug": "We World Express",
+    "name": "We World Express"
+  },
+  {
+    "slug": "WeDo (InTime)",
+    "name": "WeDo (InTime)"
+  },
+  {
+    "slug": "WEL",
+    "name": "WEL"
+  },
+  {
+    "slug": "Wellington Parcel",
+    "name": "Wellington Parcel"
+  },
+  {
+    "slug": "WePickUp",
+    "name": "WePickUp"
+  },
+  {
+    "slug": "WestParcel",
+    "name": "WestParcel"
+  },
+  {
+    "slug": "Whats Ship",
+    "name": "Whats Ship"
+  },
+  {
+    "slug": "Whistl",
+    "name": "Whistl"
+  },
+  {
+    "slug": "Whiz Delivery",
+    "name": "Whiz Delivery"
+  },
+  {
+    "slug": "Wiio",
+    "name": "Wiio"
+  },
+  {
+    "slug": "Winit",
+    "name": "Winit"
+  },
+  {
+    "slug": "Wise Express",
+    "name": "Wise Express"
+  },
+  {
+    "slug": "Wiseloads",
+    "name": "Wiseloads"
+  },
+  {
+    "slug": "Wish Global",
+    "name": "Wish Global"
+  },
+  {
+    "slug": "Wish Post",
+    "name": "Wish Post"
+  },
+  {
+    "slug": "WIZMO",
+    "name": "WIZMO"
+  },
+  {
+    "slug": "WJ Logistics",
+    "name": "WJ Logistics"
+  },
+  {
+    "slug": "WJD",
+    "name": "WJD"
+  },
+  {
+    "slug": "WM",
+    "name": "WM"
+  },
+  {
+    "slug": "WMYC",
+    "name": "WMYC"
+  },
+  {
+    "slug": "WNDirect",
+    "name": "WNDirect"
+  },
+  {
+    "slug": "wnDirect Singapore",
+    "name": "wnDirect Singapore"
+  },
+  {
+    "slug": "wnDirect USA",
+    "name": "wnDirect USA"
+  },
+  {
+    "slug": "Wokexp",
+    "name": "Wokexp"
+  },
+  {
+    "slug": "Worldnet",
+    "name": "Worldnet"
+  },
+  {
+    "slug": "WSE Logistics",
+    "name": "WSE Logistics"
+  },
+  {
+    "slug": "WXY",
+    "name": "WXY"
+  },
+  {
+    "slug": "Wycon Cosmetics",
+    "name": "Wycon Cosmetics"
+  },
+  {
+    "slug": "XD Express",
+    "name": "XD Express"
+  },
+  {
+    "slug": "XDE Logistics - Ximex",
+    "name": "XDE Logistics - Ximex"
+  },
+  {
+    "slug": "XDP Express",
+    "name": "XDP Express"
+  },
+  {
+    "slug": "Xend Express",
+    "name": "Xend Express"
+  },
+  {
+    "slug": "Xiamen Air",
+    "name": "Xiamen Air"
+  },
+  {
+    "slug": "Xichen",
+    "name": "Xichen"
+  },
+  {
+    "slug": "Xingyuan",
+    "name": "Xingyuan"
+  },
+  {
+    "slug": "XinRan",
+    "name": "XinRan"
+  },
+  {
+    "slug": "XJWL",
+    "name": "XJWL"
+  },
+  {
+    "slug": "XPO",
+    "name": "XPO"
+  },
+  {
+    "slug": "XPO Connect",
+    "name": "XPO Connect"
+  },
+  {
+    "slug": "Xpost",
+    "name": "Xpost"
+  },
+  {
+    "slug": "XpressBees",
+    "name": "XpressBees"
+  },
+  {
+    "slug": "Xuansi",
+    "name": "Xuansi"
+  },
+  {
+    "slug": "XYEX",
+    "name": "XYEX"
+  },
+  {
+    "slug": "XYL",
+    "name": "XYL"
+  },
+  {
+    "slug": "XYLC",
+    "name": "XYLC"
+  },
+  {
+    "slug": "XYS",
+    "name": "XYS"
+  },
+  {
+    "slug": "XYTKJ",
+    "name": "XYTKJ"
+  },
+  {
+    "slug": "XYY / XingYunYi",
+    "name": "XYY / XingYunYi"
+  },
+  {
+    "slug": "XZD",
+    "name": "XZD"
+  },
+  {
+    "slug": "XZG",
+    "name": "XZG"
+  },
+  {
+    "slug": "Yamato America",
+    "name": "Yamato America"
+  },
+  {
+    "slug": "Yamato Japan",
+    "name": "Yamato Japan"
+  },
+  {
+    "slug": "Yamato Parcel",
+    "name": "Yamato Parcel"
+  },
+  {
+    "slug": "Yanwen Logistics",
+    "name": "Yanwen Logistics"
+  },
+  {
+    "slug": "YCEX",
+    "name": "YCEX"
+  },
+  {
+    "slug": "Ydex",
+    "name": "Ydex"
+  },
+  {
+    "slug": "YDH",
+    "name": "YDH"
+  },
+  {
+    "slug": "YF",
+    "name": "YF"
+  },
+  {
+    "slug": "YFH",
+    "name": "YFH"
+  },
+  {
+    "slug": "YFM",
+    "name": "YFM"
+  },
+  {
+    "slug": "YFZX",
+    "name": "YFZX"
+  },
+  {
+    "slug": "YHA",
+    "name": "YHA"
+  },
+  {
+    "slug": "YHT Cargo",
+    "name": "YHT Cargo"
+  },
+  {
+    "slug": "YiFan",
+    "name": "YiFan"
+  },
+  {
+    "slug": "Yiyuan",
+    "name": "Yiyuan"
+  },
+  {
+    "slug": "YJI",
+    "name": "YJI"
+  },
+  {
+    "slug": "YJTGYL",
+    "name": "YJTGYL"
+  },
+  {
+    "slug": "YLE",
+    "name": "YLE"
+  },
+  {
+    "slug": "YM Trans",
+    "name": "YM Trans"
+  },
+  {
+    "slug": "Yodel",
+    "name": "Yodel"
+  },
+  {
+    "slug": "YodelDirect",
+    "name": "YodelDirect"
+  },
+  {
+    "slug": "Youyunda",
+    "name": "Youyunda"
+  },
+  {
+    "slug": "YRC Freight",
+    "name": "YRC Freight"
+  },
+  {
+    "slug": "YSD",
+    "name": "YSD"
+  },
+  {
+    "slug": "YSD Post",
+    "name": "YSD Post"
+  },
+  {
+    "slug": "YTGYL",
+    "name": "YTGYL"
+  },
+  {
+    "slug": "YTO Express",
+    "name": "YTO Express"
+  },
+  {
+    "slug": "Yuanhao",
+    "name": "Yuanhao"
+  },
+  {
+    "slug": "Yuanpeng",
+    "name": "Yuanpeng"
+  },
+  {
+    "slug": "Yuhong",
+    "name": "Yuhong"
+  },
+  {
+    "slug": "Yun Express",
+    "name": "Yun Express"
+  },
+  {
+    "slug": "YunHui",
+    "name": "YunHui"
+  },
+  {
+    "slug": "Yunteng",
+    "name": "Yunteng"
+  },
+  {
+    "slug": "Yurtici Kargo",
+    "name": "Yurtici Kargo"
+  },
+  {
+    "slug": "YWBZ Express",
+    "name": "YWBZ Express"
+  },
+  {
+    "slug": "YWD",
+    "name": "YWD"
+  },
+  {
+    "slug": "YWE",
+    "name": "YWE"
+  },
+  {
+    "slug": "YX Logistics",
+    "name": "YX Logistics"
+  },
+  {
+    "slug": "YXHL",
+    "name": "YXHL"
+  },
+  {
+    "slug": "YY Postal",
+    "name": "YY Postal"
+  },
+  {
+    "slug": "Z1 Express",
+    "name": "Z1 Express"
+  },
+  {
+    "slug": "Zajil",
+    "name": "Zajil"
+  },
+  {
+    "slug": "Zaslat.cz",
+    "name": "Zaslat.cz"
+  },
+  {
+    "slug": "ZCE - Geswl Express",
+    "name": "ZCE - Geswl Express"
+  },
+  {
+    "slug": "ZD Express",
+    "name": "ZD Express"
+  },
+  {
+    "slug": "Zeleris",
+    "name": "Zeleris"
+  },
+  {
+    "slug": "Zes Express",
+    "name": "Zes Express"
+  },
+  {
+    "slug": "ZFY",
+    "name": "ZFY"
+  },
+  {
+    "slug": "ZhelDor Expedition",
+    "name": "ZhelDor Expedition"
+  },
+  {
+    "slug": "Zhiteng",
+    "name": "Zhiteng"
+  },
+  {
+    "slug": "Zhongling",
+    "name": "Zhongling"
+  },
+  {
+    "slug": "ZIDI",
+    "name": "ZIDI"
+  },
+  {
+    "slug": "ZIM",
+    "name": "ZIM"
+  },
+  {
+    "slug": "ZIM Logistics",
+    "name": "ZIM Logistics"
+  },
+  {
+    "slug": "Zinc Logistics",
+    "name": "Zinc Logistics"
+  },
+  {
+    "slug": "Zip",
+    "name": "Zip"
+  },
+  {
+    "slug": "Zipasgo",
+    "name": "Zipasgo"
+  },
+  {
+    "slug": "ZKGJ",
+    "name": "ZKGJ"
+  },
+  {
+    "slug": "ZL",
+    "name": "ZL"
+  },
+  {
+    "slug": "Zmetaport",
+    "name": "Zmetaport"
+  },
+  {
+    "slug": "ZOTE",
+    "name": "ZOTE"
+  },
+  {
+    "slug": "ZSGJ",
+    "name": "ZSGJ"
+  },
+  {
+    "slug": "ZTO Asia",
+    "name": "ZTO Asia"
+  },
+  {
+    "slug": "ZTO Express",
+    "name": "ZTO Express"
+  },
+  {
+    "slug": "ZTO International",
+    "name": "ZTO International"
+  },
+  {
+    "slug": "Zweiradteile",
+    "name": "Zweiradteile"
+  },
+  {
+    "slug": "ZXSY",
+    "name": "ZXSY"
+  },
+  {
+    "slug": "ZYEX",
+    "name": "ZYEX"
+  },
+  {
+    "slug": "ZZWL",
+    "name": "ZZWL"
+  },
+  {
+    "slug": "Вoddle",
+    "name": "Вoddle"
+  },
+  {
+    "slug": "Возовоз",
+    "name": "Возовоз"
+  },
+  {
+    "slug": "Деловые Линии",
+    "name": "Деловые Линии"
+  },
+  {
+    "slug": "ЕМС Почта России",
+    "name": "ЕМС Почта России"
+  },
+  {
+    "slug": "КазПочта",
+    "name": "КазПочта"
+  },
+  {
+    "slug": "Почта Азербайджана",
+    "name": "Почта Азербайджана"
+  },
+  {
+    "slug": "Почта Армении",
+    "name": "Почта Армении"
+  },
+  {
+    "slug": "Почта Беларуси",
+    "name": "Почта Беларуси"
+  },
+  {
+    "slug": "Почта России",
+    "name": "Почта России"
+  },
+  {
+    "slug": "Почта Узбекистана",
+    "name": "Почта Узбекистана"
+  },
+  {
+    "slug": "ПЭК",
+    "name": "ПЭК"
+  },
+  {
+    "slug": "СДЭК",
+    "name": "СДЭК"
+  },
+  {
+    "slug": "ТК КИТ",
+    "name": "ТК КИТ"
+  },
+  {
+    "slug": "ТК Энергия",
+    "name": "ТК Энергия"
+  }
+]
