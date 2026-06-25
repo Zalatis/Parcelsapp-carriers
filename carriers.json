@@ -1008,7 +1008,8 @@
   },
   {
     "slug": "Chronopost France",
-    "name": "Chronopost France"
+    "name": "Chronopost France",
+    "timezone": "Europe/Paris"
   },
   {
     "slug": "Chronopost Portugal",
