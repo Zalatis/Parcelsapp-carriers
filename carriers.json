@@ -3318,7 +3318,10 @@
   {
     "slug": "La Poste",
     "name": "La Poste",
-    "timezone": "Europe/Paris"
+    "timezone": "Europe/Paris",
+    "link": {
+      "fr": "https://www.laposte.fr/outils/suivre-vos-envois?code={code}"
+    }
   },
   {
     "slug": "La Poste Burkina Faso",
